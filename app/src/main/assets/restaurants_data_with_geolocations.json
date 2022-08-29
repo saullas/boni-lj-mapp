@@ -1,0 +1,5464 @@
+[
+  {
+    "address": "Ajdovščina 7, 1000 Ljubljana",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.053102448686154,
+      "second": 14.505202999069406
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "vegansko"
+    ],
+    "title": "108 (Loving Hut)"
+  },
+  {
+    "address": "Trubarjeva cesta 40, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.05251287528732,
+      "second": 14.510947223351044
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "ABI FALAFEL"
+  },
+  {
+    "address": "Topniška 29a, 1000 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.06736304958164,
+      "second": 14.517528405416911
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "AMBIENT"
+  },
+  {
+    "address": "Puhova ulica 21, 2250 Ptuj",
+    "full_price": "6,50",
+    "geolocation": {
+      "first": 46.4237955,
+      "second": 15.8858632
+    },
+    "subvention_price": "3,68",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "pizza"
+    ],
+    "title": "Andiamo"
+  },
+  {
+    "address": "Kardeljeva ploščad 5, 1000 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.07474194676121,
+      "second": 14.514755695371914
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "AULA CAFE"
+  },
+  {
+    "address": "Kongresni trg 3, 1000 Ljubljana",
+    "full_price": "6,80",
+    "geolocation": {
+      "first": 46.05053923207414,
+      "second": 14.504642303315682
+    },
+    "subvention_price": "3,98",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "dostop za invalide",
+      "za s seboj",
+      "azijska"
+    ],
+    "title": "Azijska restavracija Han"
+  },
+  {
+    "address": "Šmartinska 152 g, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.06811677754989,
+      "second": 14.546297181762961
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo",
+      "za s seboj",
+      "odprto ob vikendih"
+    ],
+    "title": "Balkan Express"
+  },
+  {
+    "address": "Baragova 16, 1000 Ljubljana",
+    "full_price": "3,69",
+    "geolocation": {
+      "first": 46.07589173173375,
+      "second": 14.51699444737238
+    },
+    "subvention_price": "0,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "za s seboj"
+    ],
+    "title": "Bar ENKA"
+  },
+  {
+    "address": "Litostrojska cesta 44E, 1000 Ljubljana",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.0786656,
+      "second": 14.4957476
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "azijska"
+    ],
+    "title": "Bar Moment"
+  },
+  {
+    "address": "Dunajska cesta 106, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.0744267224531,
+      "second": 14.512060498315762
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "kosilo",
+      "za s seboj"
+    ],
+    "title": "Barbado"
+  },
+  {
+    "address": "Jurčičeva ulica 3, 2000 Maribor",
+    "full_price": "6,59",
+    "geolocation": {
+      "first": 46.559173,
+      "second": 15.6469323
+    },
+    "subvention_price": "3,77",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih",
+      "kitajska",
+      "nov lokal"
+    ],
+    "title": "Big Panda - dostava"
+  },
+  {
+    "address": "Jurčičeva ulica 3, 2000 Maribor",
+    "full_price": "6,59",
+    "geolocation": {
+      "first": 46.559173,
+      "second": 15.6469323
+    },
+    "subvention_price": "3,77",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "kitajska",
+      "odprto ob vikendih",
+      "nov lokal",
+      "za s seboj"
+    ],
+    "title": "Big Panda restavracija"
+  },
+  {
+    "address": "Kardeljeva ploščad 17, 1000 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.074016799999995,
+      "second": 14.516448999999998
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Bigdil Cafe"
+  },
+  {
+    "address": "Slovenska ulica 20, 2000 Maribor",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.560426299999996,
+      "second": 15.645975499999999
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "za s seboj",
+      "vegetarijansko"
+    ],
+    "title": "Bistro Arty"
+  },
+  {
+    "address": "Kardeljeva ploščad 5, 1000 Ljubljana",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.073964265009735,
+      "second": 14.515127705138868
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "za s seboj",
+      "kosilo"
+    ],
+    "title": "Bistro Šumi"
+  },
+  {
+    "address": "Vojkovo nabrežje 12, 6000 Koper/Capodistria",
+    "full_price": "5,92",
+    "geolocation": {
+      "first": 45.54552141853198,
+      "second": 13.733070693919707
+    },
+    "subvention_price": "3,10",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "za s seboj"
+    ],
+    "title": "Bistro Villa Domus"
+  },
+  {
+    "address": "Kidričeva ulica 23, 3250 Rogaška Slatina",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.233762553796495,
+      "second": 15.638117375429028
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "za s seboj"
+    ],
+    "title": "Bohor"
+  },
+  {
+    "address": "Cesta maršala Tita 112, 4270 Jesenice",
+    "full_price": "4,50",
+    "geolocation": {
+      "first": 46.443044099999995,
+      "second": 14.0370978
+    },
+    "subvention_price": "1,68",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Bolnišnična restavracija Splošne bolnišnice Jesenice"
+  },
+  {
+    "address": "Rimska cesta 13, 1000 Ljubljana",
+    "full_price": "3,69",
+    "geolocation": {
+      "first": 46.047428,
+      "second": 14.499857599999999
+    },
+    "subvention_price": "0,87",
+    "tags": [
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "za s seboj",
+      "burek"
+    ],
+    "title": "Burek Olimpija Rimska"
+  },
+  {
+    "address": "Trubarjeva 47, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.052522599999996,
+      "second": 14.511786500000001
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana",
+      "za s seboj",
+      "burger"
+    ],
+    "title": "Burger Time"
+  },
+  {
+    "address": "Ulica Pariške komune 37, 2000 Maribor",
+    "full_price": "6,60",
+    "geolocation": {
+      "first": 46.548598899999995,
+      "second": 15.6430861
+    },
+    "subvention_price": "3,78",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "za s seboj",
+      "kubanska"
+    ],
+    "title": "Cantante Café"
+  },
+  {
+    "address": "Ulica Pariške komune 37, 2000 Maribor",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.548598899999995,
+      "second": 15.6430861
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih",
+      "kubanska"
+    ],
+    "title": "Cantante Café - DOSTAVA"
+  },
+  {
+    "address": "Trg osvobodilne fronte 13, 1000 Ljubljana",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.057422599999995,
+      "second": 14.509497
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "mehiška",
+      "za s seboj"
+    ],
+    "title": "Cantina Que Pasa"
+  },
+  {
+    "address": "Trubarjeva 23, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0525454,
+      "second": 14.509082699999997
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "pizza"
+    ],
+    "title": "Centralna postaja"
+  },
+  {
+    "address": "Pobreška cesta 18, 2000 Maribor",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.5537814,
+      "second": 15.6532921
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Chutysopark Maribor"
+  },
+  {
+    "address": "Slovenska 18, 2000 Maribor",
+    "full_price": "5,70",
+    "geolocation": {
+      "first": 46.5604175,
+      "second": 15.6461178
+    },
+    "subvention_price": "2,88",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "City grill"
+  },
+  {
+    "address": "Slovenska 18, 2000 Maribor",
+    "full_price": "6,20",
+    "geolocation": {
+      "first": 46.5604175,
+      "second": 15.6461178
+    },
+    "subvention_price": "3,38",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "City grill - DOSTAVA"
+  },
+  {
+    "address": "Ankaranska 7, 6000 Koper/Capodistria",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 45.5452211,
+      "second": 13.740905099999999
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "CITYBURGER"
+  },
+  {
+    "address": "Nazorjeva ulica 12, 1000 Ljubljana",
+    "full_price": "6,59",
+    "geolocation": {
+      "first": 46.0528462,
+      "second": 14.504020400000002
+    },
+    "subvention_price": "3,77",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Čevabdžinica Sarajevo84"
+  },
+  {
+    "address": "Gramšijev trg 8, 6000 Koper/Capodistria",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 45.5472243,
+      "second": 13.7354463
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Čevabdžinica Sarajevo84"
+  },
+  {
+    "address": "Šubičeva 1a, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0508141,
+      "second": 14.5018883
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "DA BU DA, Azijska restavracija"
+  },
+  {
+    "address": "Gortanova 21, 1000 Ljubljana",
+    "full_price": "4,52",
+    "geolocation": {
+      "first": 46.0503594,
+      "second": 14.533207500000001
+    },
+    "subvention_price": "1,70",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "DIFOOD-eat good"
+  },
+  {
+    "address": "Gortanova 21, 1000 Ljubljana",
+    "full_price": "5,52",
+    "geolocation": {
+      "first": 46.0503594,
+      "second": 14.533207500000001
+    },
+    "subvention_price": "2,70",
+    "tags": [
+      "dostava",
+      "kosilo"
+    ],
+    "title": "DIFOOD-eat good -dostava"
+  },
+  {
+    "address": "Poljanska cesta 26, 1000 Ljubljana",
+    "full_price": "5,69",
+    "geolocation": {
+      "first": 46.048114899999995,
+      "second": 14.516743
+    },
+    "subvention_price": "2,87",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Dijaški dom Ivana Cankarja"
+  },
+  {
+    "address": "Titova cesta 24a, 2000 Maribor",
+    "full_price": "4,70",
+    "geolocation": {
+      "first": 46.5500695,
+      "second": 15.6489763
+    },
+    "subvention_price": "1,88",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Dijaški dom Lizike Jančar"
+  },
+  {
+    "address": "Potočnikova ulica 3, 1000 Ljubljana",
+    "full_price": "5,02",
+    "geolocation": {
+      "first": 46.0499747,
+      "second": 14.5229363
+    },
+    "subvention_price": "2,20",
+    "tags": [
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Dijaški dom Poljane"
+  },
+  {
+    "address": "Sončna pot 20, 6320 Portorož/Portorose",
+    "full_price": "5,69",
+    "geolocation": {
+      "first": 45.5169396,
+      "second": 13.5834751
+    },
+    "subvention_price": "2,87",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Dijaški dom Portorož"
+  },
+  {
+    "address": "Vidovdanska 7, 1000 Ljubljana",
+    "full_price": "5,82",
+    "geolocation": {
+      "first": 46.0534162,
+      "second": 14.5137731
+    },
+    "subvention_price": "3,00",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Dijaški dom Tabor"
+  },
+  {
+    "address": "Gerbičeva 53, 1000 Ljubljana",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.0393973,
+      "second": 14.488368200000002
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Dijaški dom Vič"
+  },
+  {
+    "address": "Cankarjeva 5, 6000 Koper/Capodistria",
+    "full_price": "5,09",
+    "geolocation": {
+      "first": 45.5485641,
+      "second": 13.7323638
+    },
+    "subvention_price": "2,27",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Dijaški in študentski dom Koper"
+  },
+  {
+    "address": "Šegova ulica 115, 8000 Novo mesto",
+    "full_price": "5,32",
+    "geolocation": {
+      "first": 45.793967699999996,
+      "second": 15.160706999999999
+    },
+    "subvention_price": "2,50",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Dijaški in študentski dom Novo mesto"
+  },
+  {
+    "address": "Celovška cesta 69 a, 1000 Ljubljana",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.0635802,
+      "second": 14.4938538
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Dobrote vzhoda"
+  },
+  {
+    "address": "Dunajska cesta 113, 1000 Ljubljana",
+    "full_price": "3,19",
+    "geolocation": {
+      "first": 46.0748031,
+      "second": 14.510908
+    },
+    "subvention_price": "0,37",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Domača pekarna"
+  },
+  {
+    "address": "Koroška cesta 46, 2000 Maribor",
+    "full_price": "5,72",
+    "geolocation": {
+      "first": 46.5590355,
+      "second": 15.6380735
+    },
+    "subvention_price": "2,90",
+    "tags": [
+      "vegetarijansko",
+      "kosilo"
+    ],
+    "title": "Eat smart FERI"
+  },
+  {
+    "address": "Slovenska cesta 10, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.0481899,
+      "second": 14.5016479
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "EKSPERIMENT restavracija \u0026 bar"
+  },
+  {
+    "address": "Slovenska cesta 10, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.0481899,
+      "second": 14.5016479
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo"
+    ],
+    "title": "EKSPERIMENT restavracija \u0026 bar - dostava"
+  },
+  {
+    "address": "Pristaniška ulica 2, 6000 Koper/Capodistria",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 45.546133,
+      "second": 13.7260016
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "hitra hrana"
+    ],
+    "title": "Fast food Magic"
+  },
+  {
+    "address": "Slovenska cesta 51, 1000 Ljubljana",
+    "full_price": "4,42",
+    "geolocation": {
+      "first": 46.055613099999995,
+      "second": 14.5048633
+    },
+    "subvention_price": "1,60",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "hitra hrana"
+    ],
+    "title": "Fast food Slast"
+  },
+  {
+    "address": "Trg OF 13, 1000 Ljubljana",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.057422599999995,
+      "second": 14.509497
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "Fastfood Ajda"
+  },
+  {
+    "address": "Petkovškovo nabrežje 25, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0521653,
+      "second": 14.5088714
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Forum"
+  },
+  {
+    "address": "Šolska cesta 2, 4220 Škofja Loka",
+    "full_price": "5,42",
+    "geolocation": {
+      "first": 46.167945499999995,
+      "second": 14.306667299999999
+    },
+    "subvention_price": "2,60",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Garač - Restavracija \"M\""
+  },
+  {
+    "address": "Ljubljanska cesta 22, 8000 Novo mesto",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 45.8142861,
+      "second": 15.1536271
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Gostilna in picerija JERNEJEV HRAM"
+  },
+  {
+    "address": "Njegoševa 6 K, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.054240899999996,
+      "second": 14.5192941
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Gostilna in picerija Pavon"
+  },
+  {
+    "address": "Dolenjska cesta 103, 1000 Ljubljana",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.030105,
+      "second": 14.532520799999997
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Gostilna JAKA"
+  },
+  {
+    "address": "Trg Svobode 4, 2390 Ravne na Koroškem",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.544990299999995,
+      "second": 14.9664323
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Gostilna Lečnik"
+  },
+  {
+    "address": "Borštnikov trg 3, 1000 Ljubljana",
+    "full_price": "6,40",
+    "geolocation": {
+      "first": 46.0478652,
+      "second": 14.4991649
+    },
+    "subvention_price": "3,58",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Gostilna Pod lipo"
+  },
+  {
+    "address": "Oplotniška cesta 5, 3210 Slovenske Konjice",
+    "full_price": "4,69",
+    "geolocation": {
+      "first": 46.3424536,
+      "second": 15.430226600000001
+    },
+    "subvention_price": "1,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Gostilna Pod Škalcami"
+  },
+  {
+    "address": "Oplotniška cesta 5, 3210 Slovenske Konjice",
+    "full_price": "4,69",
+    "geolocation": {
+      "first": 46.3424536,
+      "second": 15.430226600000001
+    },
+    "subvention_price": "1,87",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Gostilna pod Škalcami - DOSTAVA"
+  },
+  {
+    "address": "Travniška ulica 4, 3000 Celje",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.2458174,
+      "second": 15.267218499999998
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Gostilna Stara Brajda"
+  },
+  {
+    "address": "Goliev trg 8, 8210 Trebnje",
+    "full_price": "6,40",
+    "geolocation": {
+      "first": 45.9076672,
+      "second": 15.0080428
+    },
+    "subvention_price": "3,58",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Gostilna Šeligo"
+  },
+  {
+    "address": "Šlajmerjeva 1a, 1000 Ljubljana",
+    "full_price": "6,90",
+    "geolocation": {
+      "first": 46.053403,
+      "second": 14.522856299999999
+    },
+    "subvention_price": "4,08",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Gostilna Štorklja"
+  },
+  {
+    "address": "Vodnikov trg 4, 2000 Maribor",
+    "full_price": "5,42",
+    "geolocation": {
+      "first": 46.5581246,
+      "second": 15.6408385
+    },
+    "subvention_price": "2,60",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Gostilna Zlati lev"
+  },
+  {
+    "address": "Vodnikov trg 4, 2000 Maribor",
+    "full_price": "5,82",
+    "geolocation": {
+      "first": 46.5581246,
+      "second": 15.6408385
+    },
+    "subvention_price": "3,00",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Gostilna Zlati lev - DOSTAVA"
+  },
+  {
+    "address": "Trg mladinskih delovnih brigad 8, 1000 Ljubljana",
+    "full_price": "6,70",
+    "geolocation": {
+      "first": 46.0471605,
+      "second": 14.4955915
+    },
+    "subvention_price": "3,88",
+    "tags": [
+      "vegetarijansko",
+      "kosilo"
+    ],
+    "title": "Gostilnica in pivnica Vič"
+  },
+  {
+    "address": "Jurčkova 225, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.0202672,
+      "second": 14.5366758
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "pizza"
+    ],
+    "title": "Gostilnica in pizzerija Kratochwill"
+  },
+  {
+    "address": "Šmartinska 152, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.067991,
+      "second": 14.5419731
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "pizza"
+    ],
+    "title": "Gostilnica in pizzerija Kratochwill"
+  },
+  {
+    "address": "Rimska cesta 25a, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0473107,
+      "second": 14.497375099999998
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Gostilnica Meta in Bazilika"
+  },
+  {
+    "address": "Podgorska cesta 2, 2380 Slovenj Gradec",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.5077107,
+      "second": 15.076394
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Gostilnica Namanova"
+  },
+  {
+    "address": "Župančičevo sprehajališče 2, 8000 Novo mesto",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 45.804674399999996,
+      "second": 15.161667800000002
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Gostišče LOKA"
+  },
+  {
+    "address": "Glavni trg 30, 8000 Novo mesto",
+    "full_price": "5,40",
+    "geolocation": {
+      "first": 45.8039607,
+      "second": 15.169422899999999
+    },
+    "subvention_price": "2,58",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Gostišče na trgu - Hiša kulinarike"
+  },
+  {
+    "address": "Kranjska cesta 2, 4240 Radovljica",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.3427673,
+      "second": 14.1728519
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "GRAJSKI LOUNGE \u0026 PUB"
+  },
+  {
+    "address": "Zagrebška cesta 92, 2000 Maribor",
+    "full_price": "5,90",
+    "geolocation": {
+      "first": 46.526538599999995,
+      "second": 15.669144600000001
+    },
+    "subvention_price": "3,08",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Gurmanski hram"
+  },
+  {
+    "address": "Zagrebška cesta 92, 2000 Maribor",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.526538599999995,
+      "second": 15.669144600000001
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo"
+    ],
+    "title": "Gurmanski hram - DOSTAVA"
+  },
+  {
+    "address": "Litijska 28, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.0477612,
+      "second": 14.5417869
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Halo HONG KONG"
+  },
+  {
+    "address": "Središka ulica 6, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.061300599999996,
+      "second": 14.527791200000001
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "HALO KATRA"
+  },
+  {
+    "address": "Pod ježami 14, 1000 Ljubljana",
+    "full_price": "6,49",
+    "geolocation": {
+      "first": 46.057927899999996,
+      "second": 14.528572800000001
+    },
+    "subvention_price": "3,67",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Halo Pinki"
+  },
+  {
+    "address": "Hacquetova 5, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.060624499999996,
+      "second": 14.514638799999998
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Halo Shaolin - dostava"
+  },
+  {
+    "address": "Cesta Ljubljanske brigade 33, 1000 Ljubljana",
+    "full_price": "4,99",
+    "geolocation": {
+      "first": 46.087194200000006,
+      "second": 14.4752085
+    },
+    "subvention_price": "2,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Hipermarket Ljubljana Šiška"
+  },
+  {
+    "address": "Streliška ulica 10, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0493959,
+      "second": 14.5112233
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Hiša pod gradom"
+  },
+  {
+    "address": "Čopova 4, 1000 Ljubljana",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.0518535,
+      "second": 14.505260499999997
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Hit wok"
+  },
+  {
+    "address": "Šegova ulica 112, 8000 Novo mesto",
+    "full_price": "4,70",
+    "geolocation": {
+      "first": 45.7946897,
+      "second": 15.1591167
+    },
+    "subvention_price": "1,88",
+    "tags": [
+      "vegetarijansko",
+      "kosilo"
+    ],
+    "title": "Hitra hrana Martina Krpana"
+  },
+  {
+    "address": "Metelkova ulica 8, 1000 Ljubljana",
+    "full_price": "5,99",
+    "geolocation": {
+      "first": 46.0564138,
+      "second": 14.517249699999997
+    },
+    "subvention_price": "3,17",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Hostel CELICA"
+  },
+  {
+    "address": "Šmartinska cesta 152, 1000 Ljubljana",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.067991,
+      "second": 14.5419731
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "HOT HORSE - BTC"
+  },
+  {
+    "address": "Celovška cesta 25, 1000 Ljubljana",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.0575738,
+      "second": 14.497830599999999
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "HOT HORSE - Tivoli"
+  },
+  {
+    "address": "Glavni trg 43, 2380 Slovenj Gradec",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.508474199999995,
+      "second": 15.0782194
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Hotel Slovenj Gradec"
+  },
+  {
+    "address": "Kardeljeva ploščad 17, 1000 Ljubljana",
+    "full_price": "6,43",
+    "geolocation": {
+      "first": 46.074016799999995,
+      "second": 14.516448999999998
+    },
+    "subvention_price": "3,61",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "študentske ugodnosti",
+      "kosilo"
+    ],
+    "title": "HotSpot bar\u0026bistro"
+  },
+  {
+    "address": "Orožnova ulica 3, 2000 Maribor",
+    "full_price": "5,01",
+    "geolocation": {
+      "first": 46.5587855,
+      "second": 15.642976500000001
+    },
+    "subvention_price": "2,19",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "ISTANBUL Turška kuhinja"
+  },
+  {
+    "address": "Šubičeva 1, 1000 Ljubljana",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.0507607,
+      "second": 14.5022354
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Jet bar"
+  },
+  {
+    "address": "Cankarjeva cesta 6, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.052794,
+      "second": 14.5025461
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih",
+      "mehiška"
+    ],
+    "title": "Joe Pena\u0027s Cantina y Bar"
+  },
+  {
+    "address": "Gorenjesavska cesta 17, 4000 Kranj",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.242201,
+      "second": 14.348294599999997
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "celiakiji prijazni obroki",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Johnny Makarony"
+  },
+  {
+    "address": "Gorenjesavska cesta 17, 4000 Kranj",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.242201,
+      "second": 14.348294599999997
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "celiakiji prijazni obroki",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Johnny MakaronY  - DOSTAVA"
+  },
+  {
+    "address": "Aškrčeva 2, 1000 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.046720199999996,
+      "second": 14.5001974
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "K16"
+  },
+  {
+    "address": "Pivovarniška ulica 6, 1000 Ljubljana",
+    "full_price": "6,32",
+    "geolocation": {
+      "first": 46.058713999999995,
+      "second": 14.501792
+    },
+    "subvention_price": "3,50",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "pizza"
+    ],
+    "title": "Kampus Food"
+  },
+  {
+    "address": "Gosposvetska cesta 15, 2000 Maribor",
+    "full_price": "3,10",
+    "geolocation": {
+      "first": 46.5606574,
+      "second": 15.639672699999998
+    },
+    "subvention_price": "0,28",
+    "tags": [
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Kanape"
+  },
+  {
+    "address": "Kardeljeva ploščad , -1 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.0752023,
+      "second": 14.516938000000001
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "KAPITAL"
+  },
+  {
+    "address": "Pivola 10, 2311 Hoče",
+    "full_price": "5,20",
+    "geolocation": {
+      "first": 46.505237,
+      "second": 15.6227348
+    },
+    "subvention_price": "2,38",
+    "tags": [
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Kavarna in kuhinja Fakulteta za kmetijstvo in biosistemske vede"
+  },
+  {
+    "address": "Turjaška 1, 1000 Ljubljana",
+    "full_price": "6,32",
+    "geolocation": {
+      "first": 46.0477657,
+      "second": 14.502912300000002
+    },
+    "subvention_price": "3,50",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Kavarna NUK"
+  },
+  {
+    "address": "Zdravstevna  pot 5, 1000 Ljubljana",
+    "full_price": "4,59",
+    "geolocation": {
+      "first": 46.0486225,
+      "second": 14.5164985
+    },
+    "subvention_price": "1,77",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Kavarna STRIT"
+  },
+  {
+    "address": "Focheva ulica 41, 2000 Maribor",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.5453657,
+      "second": 15.643939
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska palača - DOSTAVA"
+  },
+  {
+    "address": "Cesta v mestni log 55, 1000 Ljubljana",
+    "full_price": "6,39",
+    "geolocation": {
+      "first": 46.03620237084848,
+      "second": 14.489529879096468
+    },
+    "subvention_price": "3,57",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "dostava",
+      "odprto ob vikendih",
+      "nov lokal",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija \"Leteča zvezda\""
+  },
+  {
+    "address": "Ptujska cesta 131 , 2000 Maribor",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.531129799999995,
+      "second": 15.670031099999997
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Azija"
+  },
+  {
+    "address": "Gosposvetska ulica 1, 4000 Kranj",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.246135699999996,
+      "second": 14.353033
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija AZIJA"
+  },
+  {
+    "address": "Kolodvorska ulica 20, 1000 Ljubljana",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.056895499999996,
+      "second": 14.5105854
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Beli labod"
+  },
+  {
+    "address": "Ankaranska cesta 5B, 6000 Koper/Capodistria",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 45.5446907,
+      "second": 13.743644399999999
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Cesarska hiša"
+  },
+  {
+    "address": "Kersnikova 31, 3000 Celje",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.239076499999996,
+      "second": 15.2637708
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Dva zmaja"
+  },
+  {
+    "address": "Šmartinska 152g, 1000 Ljubljana",
+    "full_price": "6,80",
+    "geolocation": {
+      "first": 46.067539599999996,
+      "second": 14.546156499999999
+    },
+    "subvention_price": "3,98",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Han"
+  },
+  {
+    "address": "Rakuševa ulica 1, 1000 Ljubljana",
+    "full_price": "6,80",
+    "geolocation": {
+      "first": 46.07828990000001,
+      "second": 14.483677700000001
+    },
+    "subvention_price": "3,98",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Han - Aleja"
+  },
+  {
+    "address": "Bazoviška ulica 6, 5000 Nova Gorica",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 45.956307599999995,
+      "second": 13.6401351
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Ming Zhu"
+  },
+  {
+    "address": "Mačkovec 6, 8000 Novo mesto",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 45.8263968,
+      "second": 15.192125200000001
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija NANKING"
+  },
+  {
+    "address": "Kapitelska 5, 1000 Ljubljana",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.0509148,
+      "second": 14.512032300000001
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Novi Šanghai"
+  },
+  {
+    "address": "Delavska ulica 11, 4270 Jesenice",
+    "full_price": "6,59",
+    "geolocation": {
+      "first": 46.433491499999995,
+      "second": 14.0635718
+    },
+    "subvention_price": "3,77",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Šang Hai"
+  },
+  {
+    "address": "Trubarjeva cesta 50, 1000 Ljubljana",
+    "full_price": "6,09",
+    "geolocation": {
+      "first": 46.0522868,
+      "second": 14.5122659
+    },
+    "subvention_price": "3,27",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Zhonghua"
+  },
+  {
+    "address": "Ulica Pohorskega bataljona 14, 2000 Maribor",
+    "full_price": "5,49",
+    "geolocation": {
+      "first": 46.5544914,
+      "second": 15.6193002
+    },
+    "subvention_price": "2,67",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Zlata srna"
+  },
+  {
+    "address": "Ulica Pohorskega bataljona 14, 2000 Maribor",
+    "full_price": "6,49",
+    "geolocation": {
+      "first": 46.5544914,
+      "second": 15.6193002
+    },
+    "subvention_price": "3,67",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Zlata srna - DOSTAVA"
+  },
+  {
+    "address": "Loška ulica 10, 2000 Maribor",
+    "full_price": "5,62",
+    "geolocation": {
+      "first": 46.556973,
+      "second": 15.650039900000001
+    },
+    "subvention_price": "2,80",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajska restavracija Zvezda"
+  },
+  {
+    "address": "Ankaranska cesta 5B, 6000 Koper/Capodistria",
+    "full_price": "6,89",
+    "geolocation": {
+      "first": 45.5446907,
+      "second": 13.743644399999999
+    },
+    "subvention_price": "4,07",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "azijska"
+    ],
+    "title": "Kitajska restavracja Cesarska hiša-DOSTAVA"
+  },
+  {
+    "address": "Teharska cesta 35, 3000 Celje",
+    "full_price": "5,99",
+    "geolocation": {
+      "first": 46.231699299999995,
+      "second": 15.276356199999999
+    },
+    "subvention_price": "3,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajski dvor"
+  },
+  {
+    "address": "Dunajska cesta 29, 1000 Ljubljana",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.0621392,
+      "second": 14.5074844
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajski dvor"
+  },
+  {
+    "address": "Dunajska cesta 29, 1000 Ljubljana",
+    "full_price": "6,89",
+    "geolocation": {
+      "first": 46.0621392,
+      "second": 14.5074844
+    },
+    "subvention_price": "4,07",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajski dvor - dostava"
+  },
+  {
+    "address": "Teharska cesta 35, 3000 Celje",
+    "full_price": "5,99",
+    "geolocation": {
+      "first": 46.231699299999995,
+      "second": 15.276356199999999
+    },
+    "subvention_price": "3,17",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Kitajski dvor - DOSTAVA"
+  },
+  {
+    "address": "Slamnikarjeva 1, 1230 Domžale",
+    "full_price": "5,90",
+    "geolocation": {
+      "first": 46.1381999,
+      "second": 14.596844599999999
+    },
+    "subvention_price": "3,08",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "azijska"
+    ],
+    "title": "Kitajsko mesto"
+  },
+  {
+    "address": "Slamnikarjeva 1, 1230 Domžale",
+    "full_price": "6,90",
+    "geolocation": {
+      "first": 46.1381999,
+      "second": 14.596844599999999
+    },
+    "subvention_price": "4,08",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "azijska"
+    ],
+    "title": "Kitajsko mesto - dostava"
+  },
+  {
+    "address": "Litostrojska cesta 57, 1000 Ljubljana",
+    "full_price": "5,50",
+    "geolocation": {
+      "first": 46.0820462,
+      "second": 14.491957699999999
+    },
+    "subvention_price": "2,68",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Klopčič"
+  },
+  {
+    "address": "Litostrojska cesta 55, 1000 Ljubljana",
+    "full_price": "5,50",
+    "geolocation": {
+      "first": 46.082032299999995,
+      "second": 14.491181200000002
+    },
+    "subvention_price": "2,68",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Klopčič - Dom Litostroj"
+  },
+  {
+    "address": "Slovenski trg 7, 4000 Kranj",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.2428879,
+      "second": 14.355980599999999
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "KLUBAR GASTROPUB"
+  },
+  {
+    "address": "Slovenska cesta 1, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.0468893,
+      "second": 14.5009369
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo"
+    ],
+    "title": "KOA Bistro \u0026 bar"
+  },
+  {
+    "address": "Poštna ulica 12, 2000 Maribor",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.5585966,
+      "second": 15.644978499999997
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Kozlovna Poštna"
+  },
+  {
+    "address": "Nemčavci 1d, 9000 Murska Sobota",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.66986120000001,
+      "second": 16.1778171
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Kratochwill"
+  },
+  {
+    "address": "Čevljarska 9, 6000 Koper/Capodistria",
+    "full_price": "5,79",
+    "geolocation": {
+      "first": 45.547546999999994,
+      "second": 13.7297693
+    },
+    "subvention_price": "2,97",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Labirint"
+  },
+  {
+    "address": "Resljeva cesta 1, 1000 Ljubljana",
+    "full_price": "3,69",
+    "geolocation": {
+      "first": 46.0523157,
+      "second": 14.5100928
+    },
+    "subvention_price": "0,87",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Leonard Zmajski most"
+  },
+  {
+    "address": "Kvedrova cesta 5a, 1000 Ljubljana",
+    "full_price": "6,50",
+    "geolocation": {
+      "first": 46.0702795,
+      "second": 14.541972900000001
+    },
+    "subvention_price": "3,68",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Leteča zvezda"
+  },
+  {
+    "address": "Borštnikov trg 3a, 1000 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.0480048,
+      "second": 14.499144099999999
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "vegetarijansko",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "LIPCA - INDEKS"
+  },
+  {
+    "address": "Stossmayerjeva ulica 26, 2000 Maribor",
+    "full_price": "6,38",
+    "geolocation": {
+      "first": 46.5607379,
+      "second": 15.642388299999999
+    },
+    "subvention_price": "3,56",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "London Street Food"
+  },
+  {
+    "address": "Gosposvetska cesta 43a, 2000 Maribor",
+    "full_price": "6,39",
+    "geolocation": {
+      "first": 46.5614941,
+      "second": 15.634063900000001
+    },
+    "subvention_price": "3,57",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Loving Hut"
+  },
+  {
+    "address": "Gosposvetska cesta 19, 2000 Maribor",
+    "full_price": "3,19",
+    "geolocation": {
+      "first": 46.560758899999996,
+      "second": 15.6392304
+    },
+    "subvention_price": "0,37",
+    "tags": [
+      "kosilo"
+    ],
+    "title": "Lunch box"
+  },
+  {
+    "address": "Trg republike 1, 1000 Ljubljana",
+    "full_price": "4,99",
+    "geolocation": {
+      "first": 46.050372499999995,
+      "second": 14.5012807
+    },
+    "subvention_price": "2,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Maxi Ljubljana"
+  },
+  {
+    "address": "Ulica Vita Kraigherja 5, 2000 Maribor",
+    "full_price": "3,32",
+    "geolocation": {
+      "first": 46.5587501,
+      "second": 15.650541299999999
+    },
+    "subvention_price": "0,50",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "MC PANDA"
+  },
+  {
+    "address": "Nemčavci 1d, 9000 Murska Sobota",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.66986120000001,
+      "second": 16.1778171
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald s restavracija  - Murska Sobota"
+  },
+  {
+    "address": "Tržaška 6, 2000 Maribor",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.541737999999995,
+      "second": 15.6477815
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald´s restavracija - Swaty"
+  },
+  {
+    "address": "Pobreška 18, 2000 Maribor",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.5586537,
+      "second": 15.646841899999998
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "hitra hrana",
+      "odprto ob vikendih"
+    ],
+    "title": "McDonald´s restavracijaopark"
+  },
+  {
+    "address": "Ptujska 106, 2000 Maribor",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.534669,
+      "second": 15.6622278
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald´s restavracija Ptujska"
+  },
+  {
+    "address": "Kidričeva 2b, 3320 Velenje",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.3597539,
+      "second": 15.1196111
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald´s restavracija Velenje"
+  },
+  {
+    "address": "Rakuševa ulica 1, 1000 Ljubljana",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.07828990000001,
+      "second": 14.483677700000001
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija - ALEJA"
+  },
+  {
+    "address": "Mariborska cesta 164, 3000 Celje",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.2480307,
+      "second": 15.280582599999999
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija - Celje Drive"
+  },
+  {
+    "address": "Celovška cesta 170, 1000 Ljubljana",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.0757252,
+      "second": 14.4842018
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija - Celovška"
+  },
+  {
+    "address": "Čopova 14, 1000 Ljubljana",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.052097599999996,
+      "second": 14.504760699999997
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija - Čopova"
+  },
+  {
+    "address": "Breznikova 15, 1230 Domžale",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.1464016,
+      "second": 14.597926999999999
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija - Domžale"
+  },
+  {
+    "address": "Cesta Boštjana Hladnika 7, 4000 Kranj",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.2321969,
+      "second": 14.369397399999999
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija - Kranj Drive"
+  },
+  {
+    "address": "Ljubljanska 24, 8000 Novo mesto",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 45.814716,
+      "second": 15.154122000000001
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija - Novo mesto"
+  },
+  {
+    "address": "Premrlova ulica 12, 1000 Ljubljana",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.0174471,
+      "second": 14.5300804
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija - Rudnik"
+  },
+  {
+    "address": "Šmartinska 147, 1000 Ljubljana",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.0694793,
+      "second": 14.540809399999999
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija - Šmartinka Drive"
+  },
+  {
+    "address": "Trg osvobodilne fronte 6, 1000 Ljubljana",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.057977799999996,
+      "second": 14.5108176
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija - Železniška"
+  },
+  {
+    "address": "Šmartinska 154, 1000 Ljubljana",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.0683317,
+      "second": 14.5503144
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija - Žito"
+  },
+  {
+    "address": "Ankaranska 4, 6000 Koper/Capodistria",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 45.5413194,
+      "second": 13.7375894
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija Koper"
+  },
+  {
+    "address": "Vojkova cesta 111, 5000 Nova Gorica",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 45.9547934,
+      "second": 13.6529239
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "McDonald\u0027s restavracija Nova Gorica"
+  },
+  {
+    "address": "Jezdarska ulica 8b, 2000 Maribor",
+    "full_price": "4,42",
+    "geolocation": {
+      "first": 46.550554899999995,
+      "second": 15.643778800000002
+    },
+    "subvention_price": "1,60",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "ME GUSTA"
+  },
+  {
+    "address": "Mlinska ulica 2, 2000 Maribor",
+    "full_price": "6,52",
+    "geolocation": {
+      "first": 46.5603608,
+      "second": 15.655375499999998
+    },
+    "subvention_price": "3,70",
+    "tags": [
+      "kosilo"
+    ],
+    "title": "Meating pub \u0026 restavracija"
+  },
+  {
+    "address": "Šmartinska 152g, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.067539599999996,
+      "second": 14.546156499999999
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "mehiška"
+    ],
+    "title": "mehiška restavracija Imperio mexicano"
+  },
+  {
+    "address": "Večna pot 111, 1000 Ljubljana",
+    "full_price": "5,82",
+    "geolocation": {
+      "first": 46.0512363,
+      "second": 14.469969299999999
+    },
+    "subvention_price": "3,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Menza BF"
+  },
+  {
+    "address": "Tržaška cesta 25, 1000 Ljubljana",
+    "full_price": "5,82",
+    "geolocation": {
+      "first": 46.044675399999996,
+      "second": 14.4892614
+    },
+    "subvention_price": "3,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Menza FE"
+  },
+  {
+    "address": "Poljanski nasip 2, 1000 Ljubljana",
+    "full_price": "5,82",
+    "geolocation": {
+      "first": 46.051524699999995,
+      "second": 14.511099399999999
+    },
+    "subvention_price": "3,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Menza PF"
+  },
+  {
+    "address": "Maistrov trg 13, 4000 Kranj",
+    "full_price": "5,20",
+    "geolocation": {
+      "first": 46.241081099999995,
+      "second": 14.356283000000001
+    },
+    "subvention_price": "2,38",
+    "tags": [
+      "vegetarijansko",
+      "kosilo"
+    ],
+    "title": "Mlečna restavracija"
+  },
+  {
+    "address": "Maistrov trg 13, 4000 Kranj",
+    "full_price": "6,20",
+    "geolocation": {
+      "first": 46.241081099999995,
+      "second": 14.356283000000001
+    },
+    "subvention_price": "3,38",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo"
+    ],
+    "title": "Mlečna restavracija - DOSTAVA"
+  },
+  {
+    "address": "Strossmayerjeva ulica 13, 2000 Maribor",
+    "full_price": "3,89",
+    "geolocation": {
+      "first": 46.5596922,
+      "second": 15.6417221
+    },
+    "subvention_price": "1,07",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Munchies"
+  },
+  {
+    "address": "Trubarjeva ulica 31, 1000 Ljubljana",
+    "full_price": "5,93",
+    "geolocation": {
+      "first": 46.052484299999996,
+      "second": 14.509856300000001
+    },
+    "subvention_price": "3,11",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "indijska"
+    ],
+    "title": "Namaste indian Express"
+  },
+  {
+    "address": "Šorlijeva 12, 4000 Kranj",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.2519474,
+      "second": 14.357269700000002
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "NJAMY - dostava"
+  },
+  {
+    "address": "Linhartova 11, 1000 Ljubljana",
+    "full_price": "6,39",
+    "geolocation": {
+      "first": 46.064646100000004,
+      "second": 14.510321900000001
+    },
+    "subvention_price": "3,57",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Okrepčevalnica - Diner kino gledališče Bežigrad"
+  },
+  {
+    "address": "Dunajska cesta 111, 1000 Ljubljana",
+    "full_price": "5,69",
+    "geolocation": {
+      "first": 46.0745644,
+      "second": 14.510146500000001
+    },
+    "subvention_price": "2,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "pizza"
+    ],
+    "title": "Okrepčevalnica - pizzerija Maks"
+  },
+  {
+    "address": "Ajdovščina 4, 1000 Ljubljana",
+    "full_price": "5,82",
+    "geolocation": {
+      "first": 46.0534347,
+      "second": 14.5052992
+    },
+    "subvention_price": "3,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Okrepčevalnica Ajda"
+  },
+  {
+    "address": "Kardeljeva ploščad 5, 1000 Ljubljana",
+    "full_price": "4,39",
+    "geolocation": {
+      "first": 46.074240180537245,
+      "second": 14.51366700966229
+    },
+    "subvention_price": "1,57",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "kosilo"
+    ],
+    "title": "Okrepčevalnica Badovinac"
+  },
+  {
+    "address": "Smetanova ulica 17, 2000 Maribor",
+    "full_price": "3,69",
+    "geolocation": {
+      "first": 46.5594876,
+      "second": 15.639271799999998
+    },
+    "subvention_price": "0,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Okrepčevalnica FERI"
+  },
+  {
+    "address": "Gosposvetska cesta 83, 2000 Maribor",
+    "full_price": "3,69",
+    "geolocation": {
+      "first": 46.562873700000004,
+      "second": 15.6271258
+    },
+    "subvention_price": "0,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Okrepčevalnica Gosposvetska"
+  },
+  {
+    "address": "Igriška ulica 5, 1000 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.04801966592924,
+      "second": 14.499571056783617
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "pizza"
+    ],
+    "title": "Okrepčevalnica HOLYFOOD"
+  },
+  {
+    "address": "Prešernova 17, 2000 Maribor",
+    "full_price": "5,80",
+    "geolocation": {
+      "first": 46.04802,
+      "second": 14.49957
+    },
+    "subvention_price": "2,98",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Okrepčevalnica IZUM"
+  },
+  {
+    "address": "Celjska cesta 48 b, 2380 Slovenj Gradec",
+    "full_price": "5,40",
+    "geolocation": {
+      "first": 46.503150999999995,
+      "second": 15.0863549
+    },
+    "subvention_price": "2,58",
+    "tags": [
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Okrepčevalnica Minutka"
+  },
+  {
+    "address": "Koroška cesta 9, 2000 Maribor",
+    "full_price": "4,89",
+    "geolocation": {
+      "first": 46.5576636,
+      "second": 15.643213999999999
+    },
+    "subvention_price": "2,07",
+    "tags": [
+      "dostop za invalide",
+      "solata",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Okrepčevalnica MM PANDA"
+  },
+  {
+    "address": "Koroška cesta 5, 2000 Maribor",
+    "full_price": "5,69",
+    "geolocation": {
+      "first": 46.557339899999995,
+      "second": 15.643556799999999
+    },
+    "subvention_price": "2,87",
+    "tags": [
+      "vegetarijansko",
+      "študentske ugodnosti",
+      "kosilo"
+    ],
+    "title": "Okrepčevalnica Pivnica Alf"
+  },
+  {
+    "address": "Koroška cesta 5, 2000 Maribor",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.557339899999995,
+      "second": 15.643556799999999
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "študentske ugodnosti",
+      "kosilo"
+    ],
+    "title": "Okrepčevalnica Pivnica Alf - DOSTAVA"
+  },
+  {
+    "address": "Adamič Lundrovo nabrežje 1, 1000 Ljubljana",
+    "full_price": "6,40",
+    "geolocation": {
+      "first": 46.0510563,
+      "second": 14.5065665
+    },
+    "subvention_price": "3,58",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Okrepčevalnica RIBCA"
+  },
+  {
+    "address": "Trg OF 10, 1000 Ljubljana",
+    "full_price": "4,69",
+    "geolocation": {
+      "first": 46.0583998,
+      "second": 14.5129205
+    },
+    "subvention_price": "1,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Okrepčevalnica TimeOut"
+  },
+  {
+    "address": "Partizanska cesta 50, 2000 Maribor",
+    "full_price": "4,29",
+    "geolocation": {
+      "first": 46.5617112,
+      "second": 15.6572597
+    },
+    "subvention_price": "1,47",
+    "tags": [
+      "dostop za invalide (wc)",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Okrepčevalnica TIP TOP"
+  },
+  {
+    "address": "Spuhlja 32, 2250 Ptuj",
+    "full_price": "6,80",
+    "geolocation": {
+      "first": 46.4152019,
+      "second": 15.913686499999999
+    },
+    "subvention_price": "3,98",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Okrepčevalnica Villa Monde"
+  },
+  {
+    "address": "Kolodvorska 11, 1000 Ljubljana",
+    "full_price": "6,63",
+    "geolocation": {
+      "first": 46.0566129,
+      "second": 14.5094147
+    },
+    "subvention_price": "3,81",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "ORIENT EXPRESS, samopostrežna restavracija"
+  },
+  {
+    "address": "Mariborska cesta 100, 3000 Celje",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.241903099999995,
+      "second": 15.2774074
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Oštarija City center Celje"
+  },
+  {
+    "address": "Ulica Eve Lovše 1, 2000 Maribor",
+    "full_price": "6,50",
+    "geolocation": {
+      "first": 46.540526,
+      "second": 15.6428105
+    },
+    "subvention_price": "3,68",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Oštarija Pizzeria Da Noi"
+  },
+  {
+    "address": "Ulica Eve Lovše 1, 2000 Maribor",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.540526,
+      "second": 15.6428105
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Oštarija Pizzeria Da Noi - DOSTAVA"
+  },
+  {
+    "address": "Moskovska ulica 4, 1000 Ljubljana",
+    "full_price": "6,63",
+    "geolocation": {
+      "first": 46.067656899999996,
+      "second": 14.5460861
+    },
+    "subvention_price": "3,81",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Oštarija pri Oljki"
+  },
+  {
+    "address": "Kandijska cesta 35, 8000 Novo mesto",
+    "full_price": "5,60",
+    "geolocation": {
+      "first": 45.8003429,
+      "second": 15.1740592
+    },
+    "subvention_price": "2,78",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Oštarija Rudolfswerth"
+  },
+  {
+    "address": "Gosposka ulica 6, 2000 Maribor",
+    "full_price": "6,49",
+    "geolocation": {
+      "first": 46.557857299999995,
+      "second": 15.6464347
+    },
+    "subvention_price": "3,67",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Papagayo"
+  },
+  {
+    "address": "Ljubljanska cesta 21, 3000 Celje",
+    "full_price": "5,17",
+    "geolocation": {
+      "first": 46.2326765,
+      "second": 15.2565659
+    },
+    "subvention_price": "2,35",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo"
+    ],
+    "title": "PE Dijaški dom Celje"
+  },
+  {
+    "address": "Tobačna ulica 5, 1000 Ljubljana",
+    "full_price": "5,29",
+    "geolocation": {
+      "first": 46.0483791,
+      "second": 14.4933151
+    },
+    "subvention_price": "2,47",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "pizza"
+    ],
+    "title": "PE Marjetica"
+  },
+  {
+    "address": "Jurčkova cesta 223, 1000 Ljubljana",
+    "full_price": "6,90",
+    "geolocation": {
+      "first": 46.021838699999996,
+      "second": 14.535913599999999
+    },
+    "subvention_price": "4,08",
+    "tags": [
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Piazza del Papa"
+  },
+  {
+    "address": "Cesta v Mestni log 55, 1000 Ljubljana",
+    "full_price": "6,72",
+    "geolocation": {
+      "first": 46.03622995981918,
+      "second": 14.489366459411329
+    },
+    "subvention_price": "3,90",
+    "tags": [
+      "dostop za invalide (wc)",
+      "kosilo",
+      "pizza"
+    ],
+    "title": "Picerija Barjan"
+  },
+  {
+    "address": "Pod Trško goro 83, 8000 Novo mesto",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 45.8225207,
+      "second": 15.1840867
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Picerija ERA"
+  },
+  {
+    "address": "Glavni trg 43, 2380 Slovenj Gradec",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.508474199999995,
+      "second": 15.0782194
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Picerija in pivnica KUFR"
+  },
+  {
+    "address": "Opekarniška cesta 9, 3000 Celje",
+    "full_price": "5,69",
+    "geolocation": {
+      "first": 46.246810499999995,
+      "second": 15.2727009
+    },
+    "subvention_price": "2,87",
+    "tags": [
+      "dostop za invalide",
+      "solata",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Picerija Verona"
+  },
+  {
+    "address": "Celovška cesta 249, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0808062,
+      "second": 14.478608699999999
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "celiakiji prijazni obroki",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Picestavracija Boccaccio"
+  },
+  {
+    "address": "Perkova 17, 1230 Domžale",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.1490951,
+      "second": 14.593375600000002
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Pivnica Adam Ravbar"
+  },
+  {
+    "address": "Kolodvorska ulica 14, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.0564799,
+      "second": 14.509970599999999
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Pivovarna in pivnica Kratochwill"
+  },
+  {
+    "address": "Ljubljanska cesta 5, 4260 Bled",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.368334,
+      "second": 14.1111195
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria Briksen"
+  },
+  {
+    "address": "Rozmanova ulica 25, 8000 Novo mesto",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 45.8054245,
+      "second": 15.165297599999999
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria Chianti"
+  },
+  {
+    "address": "Gregorčičeva ulica 3, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.0478601,
+      "second": 14.502272200000002
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "študentske ugodnosti",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria FoculuS"
+  },
+  {
+    "address": "Dalmatinova ulica 2, 8270 Krško",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 45.9638619,
+      "second": 15.486191799999999
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria Fontana"
+  },
+  {
+    "address": "Rakuševa cesta 1, 1000 Ljubljana",
+    "full_price": "6,93",
+    "geolocation": {
+      "first": 46.07828990000001,
+      "second": 14.483677700000001
+    },
+    "subvention_price": "4,11",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Pizzeria in oštarija Chianti"
+  },
+  {
+    "address": "Litijska cesta 38, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0470744,
+      "second": 14.544927500000002
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria in špagetarija Oliva"
+  },
+  {
+    "address": "Pobreška cesta 18, 2000 Maribor",
+    "full_price": "6,79",
+    "geolocation": {
+      "first": 46.5537814,
+      "second": 15.6532921
+    },
+    "subvention_price": "3,97",
+    "tags": [
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria in špageteria Al Capone"
+  },
+  {
+    "address": "Podbevškova ulica 11, 8000 Novo mesto",
+    "full_price": "5,69",
+    "geolocation": {
+      "first": 45.8044011,
+      "second": 15.195545399999999
+    },
+    "subvention_price": "2,87",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria in špagetteria Cubus"
+  },
+  {
+    "address": "Tržaška 79a, 1000 Ljubljana",
+    "full_price": "6,63",
+    "geolocation": {
+      "first": 46.042295599999996,
+      "second": 14.4792024
+    },
+    "subvention_price": "3,81",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria Laterna"
+  },
+  {
+    "address": "Nazorjeva ulica 8, 1000 Ljubljana",
+    "full_price": "6,12",
+    "geolocation": {
+      "first": 46.052729899999996,
+      "second": 14.5045754
+    },
+    "subvention_price": "3,30",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria Osmica"
+  },
+  {
+    "address": "Trg republike 2, 1000 Ljubljana",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.049595113041256,
+      "second": 14.500675863287718
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "študentske ugodnosti",
+      "celiakiji prijazni obroki",
+      "pizza",
+      "odprto ob vikendih",
+      "vegetarijansko"
+    ],
+    "title": "Pizzeria Parma"
+  },
+  {
+    "address": "Miklošičeva cesta 22, 1000 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.0546319,
+      "second": 14.507508300000001
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria Šestinka"
+  },
+  {
+    "address": "Kandijska cesta 60, 8000 Novo mesto",
+    "full_price": "6,49",
+    "geolocation": {
+      "first": 45.798952199999995,
+      "second": 15.177273999999997
+    },
+    "subvention_price": "3,67",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria Totalka"
+  },
+  {
+    "address": "Tomažičeva ulica 10, 6310 Izola/Isola",
+    "full_price": "6,10",
+    "geolocation": {
+      "first": 45.5328016,
+      "second": 13.6510231
+    },
+    "subvention_price": "3,28",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzeria Vila Raineri"
+  },
+  {
+    "address": "Borštnikova ulica 33a, 2000 Maribor",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.5371728,
+      "second": 15.623933499999998
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "pizza",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Pizzeria Vivaldi"
+  },
+  {
+    "address": "Pečarjeva 1, 1410 Zagorje ob Savi",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.1319575,
+      "second": 14.9942446
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih",
+      "pizza"
+    ],
+    "title": "Pizzerija Ašič"
+  },
+  {
+    "address": "Čevljarska 8, 6000 Koper/Capodistria",
+    "full_price": "6,62",
+    "geolocation": {
+      "first": 45.54752510000001,
+      "second": 13.7294406
+    },
+    "subvention_price": "3,80",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzerija Atrij"
+  },
+  {
+    "address": "Obrtniška cesta 1, 1420 Trbovlje",
+    "full_price": "6,50",
+    "geolocation": {
+      "first": 46.1548989,
+      "second": 15.0508342
+    },
+    "subvention_price": "3,68",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "dostava",
+      "pizza"
+    ],
+    "title": "Pizzerija Dimnik"
+  },
+  {
+    "address": "Ulica Marije Hvaličeve 6, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0730744,
+      "second": 14.450184799999999
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih",
+      "pizza",
+      "italijanska"
+    ],
+    "title": "Pizzerija Etna - italijanska kuhinja"
+  },
+  {
+    "address": "Koroška cesta 59, 4000 Kranj",
+    "full_price": "5,40",
+    "geolocation": {
+      "first": 46.251425999999995,
+      "second": 14.344180099999997
+    },
+    "subvention_price": "2,58",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "pizza"
+    ],
+    "title": "Pizzerija Gorenc"
+  },
+  {
+    "address": "Cesta v Mestni log 55, 1000 Ljubljana",
+    "full_price": "6,70",
+    "geolocation": {
+      "first": 46.03619932296009,
+      "second": 14.489521793567075
+    },
+    "subvention_price": "3,88",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzerija in okrepčevalnica KONDOR"
+  },
+  {
+    "address": "Stara cesta 25b, 4000 Kranj",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.241408500000006,
+      "second": 14.352647699999999
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal",
+      "pizza"
+    ],
+    "title": "Pizzerija in špagetarija Buf"
+  },
+  {
+    "address": "Moskovska ulica 4, 1000 Ljubljana",
+    "full_price": "6,13",
+    "geolocation": {
+      "first": 46.067656899999996,
+      "second": 14.5460861
+    },
+    "subvention_price": "3,31",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzerija in špageterija Alcapone"
+  },
+  {
+    "address": "Šalek 24 a, 3320 Velenje",
+    "full_price": "6,59",
+    "geolocation": {
+      "first": 46.361392699999996,
+      "second": 15.125361
+    },
+    "subvention_price": "3,77",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "pizza",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Pizzerija Velun"
+  },
+  {
+    "address": "Obrtna cona Logatec 10d, 1370 Logatec",
+    "full_price": "5,69",
+    "geolocation": {
+      "first": 45.9132499,
+      "second": 14.2416859
+    },
+    "subvention_price": "2,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Pr\u0027 letečmu potepuhu"
+  },
+  {
+    "address": "Vodovodna cesta 90, 1000 Ljubljana",
+    "full_price": "6,30",
+    "geolocation": {
+      "first": 46.0757492,
+      "second": 14.5045035
+    },
+    "subvention_price": "3,48",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "PREHRANA Bar VOKA - SNAGA"
+  },
+  {
+    "address": "Dunajska 160, 1000 Ljubljana",
+    "full_price": "6,30",
+    "geolocation": {
+      "first": 46.08266690000001,
+      "second": 14.514234799999999
+    },
+    "subvention_price": "3,48",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Prehrana Palača SMELT"
+  },
+  {
+    "address": "Prešernova cesta 55, 6310 Izola/Isola",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 45.530024100000006,
+      "second": 13.6514594
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Primavera Izola"
+  },
+  {
+    "address": "Prešernova cesta 55 , 6310 Izola/Isola",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 45.530024100000006,
+      "second": 13.6514594
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Primavera Izola-DOSTAVA"
+  },
+  {
+    "address": "Preradovičeva ulica 33, 2000 Maribor",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.553515700000005,
+      "second": 15.6247344
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Prometna šola Maribor"
+  },
+  {
+    "address": "Slovenska 9, 2000 Maribor",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.560292399999994,
+      "second": 15.646888
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Q Slovenska"
+  },
+  {
+    "address": "Gorkega ulica 45, 2000 Maribor",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.5501589,
+      "second": 15.6386806
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Q TABOR"
+  },
+  {
+    "address": "Litostrojska 54, 1000 Ljubljana",
+    "full_price": "5,69",
+    "geolocation": {
+      "first": 46.0812872,
+      "second": 14.496950299999998
+    },
+    "subvention_price": "2,87",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo"
+    ],
+    "title": "Restavracija 123 DSU"
+  },
+  {
+    "address": "Verovškova ulica 55a, 1000 Ljubljana",
+    "full_price": "5,69",
+    "geolocation": {
+      "first": 46.073194699999995,
+      "second": 14.4982649
+    },
+    "subvention_price": "2,87",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo"
+    ],
+    "title": "Restavracija 123 Mega center 2"
+  },
+  {
+    "address": "Dunajska cesta 107, 1000 Ljubljana",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.074362,
+      "second": 14.510860099999999
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "študentske ugodnosti",
+      "kosilo"
+    ],
+    "title": "Restavracija 123 Mercator Dunajska"
+  },
+  {
+    "address": "Nazorjeva ulica 8, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.052729899999996,
+      "second": 14.5045754
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih",
+      "pizza"
+    ],
+    "title": "Restavracija Allegria"
+  },
+  {
+    "address": "Jurčičeva ulica 7, 2000 Maribor",
+    "full_price": "6,70",
+    "geolocation": {
+      "first": 46.559190799999996,
+      "second": 15.647374099999999
+    },
+    "subvention_price": "3,88",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Ancora"
+  },
+  {
+    "address": "Dunajska cesta 22, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.0621533,
+      "second": 14.5091199
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Restavracija Brejk"
+  },
+  {
+    "address": "Titov trg 3, 3320 Velenje",
+    "full_price": "5,10",
+    "geolocation": {
+      "first": 46.359792600000006,
+      "second": 15.115674999999998
+    },
+    "subvention_price": "2,28",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija DK"
+  },
+  {
+    "address": "Petkovškovo nabrežje 19, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0520454,
+      "second": 14.508341199999998
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "celiakiji prijazni obroki",
+      "pizza",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "Restavracija Fany \u0026 Mary"
+  },
+  {
+    "address": "Slovenska cesta 51, 1000 Ljubljana",
+    "full_price": "6,82",
+    "geolocation": {
+      "first": 46.055613099999995,
+      "second": 14.5048633
+    },
+    "subvention_price": "4,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Fresco"
+  },
+  {
+    "address": "Aškerčeva ulica 6, 1000 Ljubljana",
+    "full_price": "5,33",
+    "geolocation": {
+      "first": 46.0473801,
+      "second": 14.4987365
+    },
+    "subvention_price": "2,51",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Restavracija FS, Fakulteta za strojništvo"
+  },
+  {
+    "address": "Mala ulica 5, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.053169399999994,
+      "second": 14.5078289
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija GIG"
+  },
+  {
+    "address": "Litijska 28, 1000 Ljubljana",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.0477612,
+      "second": 14.5417869
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Restavracija HONG KONG"
+  },
+  {
+    "address": "Gačnikova pot 2, 2390 Ravne na Koroškem",
+    "full_price": "6,50",
+    "geolocation": {
+      "first": 46.544365,
+      "second": 14.962753699999997
+    },
+    "subvention_price": "3,68",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija in maloprodaja Hermine Wech - Koroška perutnina"
+  },
+  {
+    "address": "Ozare, 2380 Slovenj Gradec",
+    "full_price": "6,50",
+    "geolocation": {
+      "first": 46.5157677,
+      "second": 15.078650500000002
+    },
+    "subvention_price": "3,68",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija in maloprodaja Hermine Wech - Koroška perutnina"
+  },
+  {
+    "address": "Trg zmage 8, 9000 Murska Sobota",
+    "full_price": "5,30",
+    "geolocation": {
+      "first": 46.6609054,
+      "second": 16.16483
+    },
+    "subvention_price": "2,48",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija in pivnica Zvezda"
+  },
+  {
+    "address": "Mariborska 100, 3000 Celje",
+    "full_price": "5,89",
+    "geolocation": {
+      "first": 46.241903099999995,
+      "second": 15.2774074
+    },
+    "subvention_price": "3,07",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Interspar Celje"
+  },
+  {
+    "address": "Šmartinska 152g, 1000 Ljubljana",
+    "full_price": "5,89",
+    "geolocation": {
+      "first": 46.067539599999996,
+      "second": 14.546156499999999
+    },
+    "subvention_price": "3,07",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Interspar Citypark"
+  },
+  {
+    "address": "Ankaranska cesta 3A, 6000 Koper/Capodistria",
+    "full_price": "5,89",
+    "geolocation": {
+      "first": 45.544146,
+      "second": 13.7407734
+    },
+    "subvention_price": "3,07",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Interspar Koper"
+  },
+  {
+    "address": "Cesta 1.maja 77, 4000 Kranj",
+    "full_price": "5,89",
+    "geolocation": {
+      "first": 46.2319722,
+      "second": 14.3672783
+    },
+    "subvention_price": "3,07",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Interspar Kranj"
+  },
+  {
+    "address": "Pobreška 18, 2000 Maribor",
+    "full_price": "5,89",
+    "geolocation": {
+      "first": 46.5586537,
+      "second": 15.646841899999998
+    },
+    "subvention_price": "3,07",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Interspar Mariboropark"
+  },
+  {
+    "address": "Cesta Proletarskih brigad 100, 2000 Maribor",
+    "full_price": "5,89",
+    "geolocation": {
+      "first": 46.546985199999995,
+      "second": 15.619369700000002
+    },
+    "subvention_price": "3,07",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Interspar Maribor Qlandia"
+  },
+  {
+    "address": "Nemčavci 1d, 9000 Murska Sobota",
+    "full_price": "5,89",
+    "geolocation": {
+      "first": 46.66986120000001,
+      "second": 16.1778171
+    },
+    "subvention_price": "3,07",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Interspar Murska Sobota"
+  },
+  {
+    "address": "Cesta 25. junija 1a, 5000 Nova Gorica",
+    "full_price": "5,89",
+    "geolocation": {
+      "first": 45.9541299,
+      "second": 13.655344
+    },
+    "subvention_price": "3,07",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Interspar Nova Gorica"
+  },
+  {
+    "address": "Jamova 105, 1000 Ljubljana",
+    "full_price": "5,89",
+    "geolocation": {
+      "first": 46.0390382,
+      "second": 14.477255600000001
+    },
+    "subvention_price": "3,07",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Interspar Vič"
+  },
+  {
+    "address": "Focheva ulica 41, 2000 Maribor",
+    "full_price": "5,99",
+    "geolocation": {
+      "first": 46.5453657,
+      "second": 15.643939
+    },
+    "subvention_price": "3,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Restavracija Kitajska palača"
+  },
+  {
+    "address": "Dravska cesta 7 , 2250 Ptuj",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.4182463,
+      "second": 15.868602
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "azijska"
+    ],
+    "title": "Restavracija Kitajski vrt"
+  },
+  {
+    "address": "Prešernova cesta 10, 1000 Ljubljana",
+    "full_price": "6,60",
+    "geolocation": {
+      "first": 46.0507001,
+      "second": 14.498364299999999
+    },
+    "subvention_price": "3,78",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Restavracija klub Cankarjevega doma"
+  },
+  {
+    "address": "Cesta talcev 37a, 3320 Velenje",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.362356999999996,
+      "second": 15.105569
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Kolodvorska"
+  },
+  {
+    "address": "Kidričeva cesta 75, 4220 Škofja Loka",
+    "full_price": "5,70",
+    "geolocation": {
+      "first": 46.170666999999995,
+      "second": 14.342255
+    },
+    "subvention_price": "2,88",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Restavracija Kompliment"
+  },
+  {
+    "address": "Letališka cesta 15, 1000 Ljubljana",
+    "full_price": "3,69",
+    "geolocation": {
+      "first": 46.0632708,
+      "second": 14.550918500000002
+    },
+    "subvention_price": "0,87",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "študentske ugodnosti",
+      "kosilo"
+    ],
+    "title": "Restavracija Letališka"
+  },
+  {
+    "address": "Ajdovščina 4, 1000 Ljubljana",
+    "full_price": "6,68",
+    "geolocation": {
+      "first": 46.0534347,
+      "second": 14.5052992
+    },
+    "subvention_price": "3,86",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Restavracija MANDALA - Podhod Ajdovščina"
+  },
+  {
+    "address": "Turnerjeva ulica 17, 2000 Maribor",
+    "full_price": "6,72",
+    "geolocation": {
+      "first": 46.563524099999995,
+      "second": 15.628817199999999
+    },
+    "subvention_price": "3,90",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Mango"
+  },
+  {
+    "address": "Mariborska cesta 100, 3000 Celje",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.241903099999995,
+      "second": 15.2774074
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "Restavracija McDonalds - Citycenter"
+  },
+  {
+    "address": "Ormoška cesta 3, 2250 Ptuj",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.418659299999995,
+      "second": 15.876400100000001
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana"
+    ],
+    "title": "Restavracija McDonalds - Ptuj"
+  },
+  {
+    "address": "Slomškova ulica 49, 9000 Murska Sobota",
+    "full_price": "5,50",
+    "geolocation": {
+      "first": 46.6577434,
+      "second": 16.164118
+    },
+    "subvention_price": "2,68",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Restavracija Mensana"
+  },
+  {
+    "address": "Davčna ulica 1, 1000 Ljubljana",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.065313599999996,
+      "second": 14.526839700000002
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Restavracija Modri kvadrat"
+  },
+  {
+    "address": "Stegne 7, 1000 Ljubljana",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.08329560000001,
+      "second": 14.4859426
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Restavracija Mozart"
+  },
+  {
+    "address": "Kardeljeva ploščad 17, 1000 Ljubljana",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.074016799999995,
+      "second": 14.516448999999998
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Restavracija Mozart P.E. Ekonomska fakulteta"
+  },
+  {
+    "address": "Gosposka ulica 30, 2000 Maribor",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.559861600000005,
+      "second": 15.646784799999999
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Mr.Falafel"
+  },
+  {
+    "address": "Kardeljeva ploščad 16, 1000 Ljubljana",
+    "full_price": "4,99",
+    "geolocation": {
+      "first": 46.0754157,
+      "second": 14.5179893
+    },
+    "subvention_price": "2,17",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Restavracija OAZA Pef"
+  },
+  {
+    "address": "Taborska ulica 12, 2000 Maribor",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.5551235,
+      "second": 15.6450739
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija ORIENT"
+  },
+  {
+    "address": "Gregorčičeva ulica 19, 2000 Maribor",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.560978299999995,
+      "second": 15.645485599999999
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Peking"
+  },
+  {
+    "address": "Koroška cesta 160, 2000 Maribor",
+    "full_price": "6,52",
+    "geolocation": {
+      "first": 46.563622699999996,
+      "second": 15.624094099999999
+    },
+    "subvention_price": "3,70",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Restavracija Piano"
+  },
+  {
+    "address": "Trg francoske revolucije 2, 1000 Ljubljana",
+    "full_price": "6,49",
+    "geolocation": {
+      "first": 46.0469222,
+      "second": 14.5031831
+    },
+    "subvention_price": "3,67",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Plečnikov hram"
+  },
+  {
+    "address": "Dimičeva ulica 13, 1000 Ljubljana",
+    "full_price": "6,03",
+    "geolocation": {
+      "first": 46.071589599999996,
+      "second": 14.514827400000001
+    },
+    "subvention_price": "3,21",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Restavracija Prestige catering, GZS"
+  },
+  {
+    "address": "Tržaška 116, 1000 Ljubljana",
+    "full_price": "6,59",
+    "geolocation": {
+      "first": 46.0399968,
+      "second": 14.472476100000002
+    },
+    "subvention_price": "3,77",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Rdeče jabolko"
+  },
+  {
+    "address": "Kidričeva cesta 8c, 4220 Škofja Loka",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.166605499999996,
+      "second": 14.314866900000002
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija sarajevskih jedi Valter - Škofja Loka"
+  },
+  {
+    "address": "Cesta Maršala Tita 106, 4270 Jesenice",
+    "full_price": "4,99",
+    "geolocation": {
+      "first": 46.441618999999996,
+      "second": 14.0390784
+    },
+    "subvention_price": "2,17",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija sarajevskih jedi Valter Jesenice"
+  },
+  {
+    "address": "Cesta 1.maja 1a, 4000 Kranj",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.238516399999995,
+      "second": 14.3580188
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Sarajevskih jedi Valter Kranj"
+  },
+  {
+    "address": "Šmartinska cesta 3, 1000 Ljubljana",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.0562952,
+      "second": 14.519341899999999
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija sarajevskih jedi Valter Ljubljana"
+  },
+  {
+    "address": "Hacquetova 5, 1000 Ljubljana",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.060624499999996,
+      "second": 14.514638799999998
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Shaolin"
+  },
+  {
+    "address": "Ajdovščina 4, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.0534347,
+      "second": 14.5052992
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Restavracija Skriti kot"
+  },
+  {
+    "address": "Šmihelska cesta 1, 8000 Novo mesto",
+    "full_price": "5,60",
+    "geolocation": {
+      "first": 45.8002003,
+      "second": 15.1636125
+    },
+    "subvention_price": "2,78",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Restavracija Splošne bolnišnice Novo mesto"
+  },
+  {
+    "address": "Aškerčeva 1, 1000 Ljubljana",
+    "full_price": "6,00",
+    "geolocation": {
+      "first": 46.0462572,
+      "second": 14.4998725
+    },
+    "subvention_price": "3,18",
+    "tags": [
+      "vegetarijansko",
+      "kosilo"
+    ],
+    "title": "Restavracija šolski center Aškerčeva"
+  },
+  {
+    "address": "Mali trg 3a, 1000 Ljubljana",
+    "full_price": "6,42",
+    "geolocation": {
+      "first": 46.0521714,
+      "second": 14.507135000000002
+    },
+    "subvention_price": "3,60",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Restavracija Tartuf \"Center\""
+  },
+  {
+    "address": "Mariborska cesta 128, 3000 Celje",
+    "full_price": "5,62",
+    "geolocation": {
+      "first": 46.244389,
+      "second": 15.278251199999998
+    },
+    "subvention_price": "2,80",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Tuš Celje (Planet Tuš)"
+  },
+  {
+    "address": "Kidričeva ulica 11, 5000 Nova Gorica",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 45.9575994,
+      "second": 13.648925799999999
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Restavracija Vrtnica"
+  },
+  {
+    "address": "Metelkova ulica 29, 2000 Maribor",
+    "full_price": "5,49",
+    "geolocation": {
+      "first": 46.543898500000005,
+      "second": 15.638115599999999
+    },
+    "subvention_price": "2,67",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Restavracija Zlata sreča"
+  },
+  {
+    "address": "Cankarejva 6, 1000 Ljubljana",
+    "full_price": "6,93",
+    "geolocation": {
+      "first": 46.052794,
+      "second": 14.5025461
+    },
+    "subvention_price": "4,11",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Rex bistro"
+  },
+  {
+    "address": "Ulica 15.maja 12e, 6000 Koper/Capodistria",
+    "full_price": "6,79",
+    "geolocation": {
+      "first": 45.5371619,
+      "second": 13.732144799999999
+    },
+    "subvention_price": "3,97",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Rifugio food/drink and more"
+  },
+  {
+    "address": "Trg OF 14, 1000 Ljubljana",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.0574435,
+      "second": 14.5087523
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Roza slon"
+  },
+  {
+    "address": "Dunajska 115, 1000 Ljubljana",
+    "full_price": "6,19",
+    "geolocation": {
+      "first": 46.0750177,
+      "second": 14.5111697
+    },
+    "subvention_price": "3,37",
+    "tags": [
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Roza slon Bežigrad"
+  },
+  {
+    "address": "Igriška ulica 5, 1000 Ljubljana",
+    "full_price": "5,12",
+    "geolocation": {
+      "first": 46.04794427102903,
+      "second": 14.499569715679142
+    },
+    "subvention_price": "2,30",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "vegetarijansko",
+      "azijska"
+    ],
+    "title": "Ruby food"
+  },
+  {
+    "address": "Dolenjska cesta 103, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.03184997211465,
+      "second": 14.532389565646122
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "SALAMON - dostava"
+  },
+  {
+    "address": "Stegne 11a, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0835882,
+      "second": 14.484139299999997
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Samopostrežna restavracija Dobra hiša"
+  },
+  {
+    "address": "Mariborska cesta 7, 3000 Celje",
+    "full_price": "5,70",
+    "geolocation": {
+      "first": 46.2340168,
+      "second": 15.267904899999998
+    },
+    "subvention_price": "2,88",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo"
+    ],
+    "title": "Samopostrežna restavracija Stolpič"
+  },
+  {
+    "address": "Trubarjeva 56, 1000 Ljubljana",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.0521975,
+      "second": 14.512780900000001
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Skuhna"
+  },
+  {
+    "address": "Trg mladinskih delovnih brigad 12, 1000 Ljubljana",
+    "full_price": "3,69",
+    "geolocation": {
+      "first": 46.0479552,
+      "second": 14.496292499999997
+    },
+    "subvention_price": "0,87",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Slaščičarna in kavarna Leonard"
+  },
+  {
+    "address": "Slovenska ulica 20, 2000 Maribor",
+    "full_price": "6,50",
+    "geolocation": {
+      "first": 46.560426299999996,
+      "second": 15.645975499999999
+    },
+    "subvention_price": "3,68",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Soul Food"
+  },
+  {
+    "address": "Polje 40, 6310 Izola/Isola",
+    "full_price": "5,50",
+    "geolocation": {
+      "first": 45.5444363,
+      "second": 13.6877636
+    },
+    "subvention_price": "2,68",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "celiakiji prijazni obroki",
+      "kosilo"
+    ],
+    "title": "Splošna bolnišnica Izola"
+  },
+  {
+    "address": "Prekomorskih brigad 7, 6310 Izola/Isola",
+    "full_price": "5,69",
+    "geolocation": {
+      "first": 45.535212099999995,
+      "second": 13.658360499999999
+    },
+    "subvention_price": "2,87",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Srednja šola Izola - Scuola media Isola"
+  },
+  {
+    "address": "Cesta krških žrtev 59, 8270 Krško",
+    "full_price": "6,80",
+    "geolocation": {
+      "first": 45.961987699999995,
+      "second": 15.4860186
+    },
+    "subvention_price": "3,98",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "kosilo",
+      "dostava",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "Stara krška pizzerija"
+  },
+  {
+    "address": "Glavni trg 5, 2000 Maribor",
+    "full_price": "5,80",
+    "geolocation": {
+      "first": 46.557367899999996,
+      "second": 15.645040700000001
+    },
+    "subvention_price": "2,98",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "študentske ugodnosti",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Stari Grill"
+  },
+  {
+    "address": "Slovenska cesta 1, 1000 Ljubljana",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.0468893,
+      "second": 14.5009369
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Subway"
+  },
+  {
+    "address": "Dunajska cesta 115a, 1000 Ljubljana",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.0750177,
+      "second": 14.5111697
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Subway"
+  },
+  {
+    "address": "Šmartinska cesta 152, 1000 Ljubljana",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.067991,
+      "second": 14.5419731
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Subway BTC"
+  },
+  {
+    "address": "Ankaranska cesta 2, 6000 Koper/Capodistria",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 45.5398377,
+      "second": 13.7352077
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Subway Koper"
+  },
+  {
+    "address": "Trubarjeva cesta 31, 1000 Ljubljana",
+    "full_price": "4,22",
+    "geolocation": {
+      "first": 46.052484299999996,
+      "second": 14.509856300000001
+    },
+    "subvention_price": "1,40",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Šeherezada"
+  },
+  {
+    "address": "Slovenska cesta 55, 1000 Ljubljana",
+    "full_price": "4,82",
+    "geolocation": {
+      "first": 46.0563837,
+      "second": 14.505060199999999
+    },
+    "subvention_price": "2,00",
+    "tags": [
+      "vegetarijansko",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "Šeherezada 2"
+  },
+  {
+    "address": "Svetčeva ulica 9, 1000 Ljubljana",
+    "full_price": "5,82",
+    "geolocation": {
+      "first": 46.0515976,
+      "second": 14.487517799999997
+    },
+    "subvention_price": "3,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "študentske ugodnosti",
+      "kosilo",
+      "pizza"
+    ],
+    "title": "Študentski dom Ljubljana - Restavracija"
+  },
+  {
+    "address": "Poljanska 14, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.050301999999995,
+      "second": 14.514462300000002
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih",
+      "indijska"
+    ],
+    "title": "TAJ MAHAL - dostava"
+  },
+  {
+    "address": ", 2000 Maribor",
+    "full_price": "0",
+    "geolocation": {
+      "first": 46.5546503,
+      "second": 15.6458812
+    },
+    "subvention_price": "-2,82",
+    "tags": [
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "test"
+  },
+  {
+    "address": "Karlovška 5, 1000 Ljubljana",
+    "full_price": "6,99",
+    "geolocation": {
+      "first": 46.0447962,
+      "second": 14.5104321
+    },
+    "subvention_price": "4,17",
+    "tags": [
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "odprto ob vikendih",
+      "pizza"
+    ],
+    "title": "TUNNEL"
+  },
+  {
+    "address": "Na Poljanah 18, 2000 Maribor",
+    "full_price": "5,62",
+    "geolocation": {
+      "first": 46.5524907,
+      "second": 15.627904500000001
+    },
+    "subvention_price": "2,80",
+    "tags": [
+      "vegetarijansko",
+      "solata",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Tuš restavracija Maribor Studenci (Planet Tuš)"
+  },
+  {
+    "address": "Svetčeva ulica 14, 1000 Ljubljana",
+    "full_price": "6,52",
+    "geolocation": {
+      "first": 46.051194800000005,
+      "second": 14.486587299999998
+    },
+    "subvention_price": "3,70",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "hitra hrana",
+      "pizza"
+    ],
+    "title": "UFO"
+  },
+  {
+    "address": "Šmartinska cesta 3, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0562952,
+      "second": 14.519341899999999
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "kosilo"
+    ],
+    "title": "UTRIP - bar, bistro in kavarna"
+  },
+  {
+    "address": "Tržaška cesta 200, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.0346341,
+      "second": 14.4549299
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostava",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "VEČNI ŠTUDENT - dostava"
+  },
+  {
+    "address": "Železna cesta 8a, 1000 Ljubljana",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.0612196,
+      "second": 14.513613800000002
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Veganshop"
+  },
+  {
+    "address": "Ormoška cesta 15, 2250 Ptuj",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.4186013,
+      "second": 15.879100699999999
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Verdi Ptuj"
+  },
+  {
+    "address": "Turnerjeva ulica 17, 2000 Maribor",
+    "full_price": "3,82",
+    "geolocation": {
+      "first": 46.563524099999995,
+      "second": 15.628817199999999
+    },
+    "subvention_price": "1,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "solata",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Village snacks"
+  },
+  {
+    "address": "Rakuševa ulica 1, 1000 Ljubljana",
+    "full_price": "6,61",
+    "geolocation": {
+      "first": 46.07828990000001,
+      "second": 14.483677700000001
+    },
+    "subvention_price": "3,79",
+    "tags": [
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Vino \u0026 ribe Aleja"
+  },
+  {
+    "address": "Stari trg 28, 1000 Ljubljana",
+    "full_price": "6,60",
+    "geolocation": {
+      "first": 46.0471722,
+      "second": 14.506279900000001
+    },
+    "subvention_price": "3,78",
+    "tags": [
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Vino \u0026 ribe Center"
+  },
+  {
+    "address": "Dunajska cesta 125, 1000 Ljubljana",
+    "full_price": "6,69",
+    "geolocation": {
+      "first": 46.0764973,
+      "second": 14.511346299999998
+    },
+    "subvention_price": "3,87",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "VIVO D125"
+  },
+  {
+    "address": "Cesta Ljubljanske brigade 33, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.087194200000006,
+      "second": 14.4752085
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Vozi Miško (MC Šiška)"
+  },
+  {
+    "address": "Jurčkova cesta 223, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.021838699999996,
+      "second": 14.535913599999999
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Vozi Miško (Supernova Rudnik)"
+  },
+  {
+    "address": "Vetrinjska ulic 15, 2000 Maribor",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.5593704,
+      "second": 15.647723999999998
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "WOK MIX center"
+  },
+  {
+    "address": "Tančeva ulica 1, 2000 Maribor",
+    "full_price": "5,19",
+    "geolocation": {
+      "first": 46.539476699999994,
+      "second": 15.6049297
+    },
+    "subvention_price": "2,37",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih",
+      "nov lokal"
+    ],
+    "title": "WOK MIX Pohorje"
+  },
+  {
+    "address": "Topniška 29a, 1000 Ljubljana",
+    "full_price": "5,62",
+    "geolocation": {
+      "first": 46.06742007022997,
+      "second": 14.518175272760685
+    },
+    "subvention_price": "2,80",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Zamaro coffee lounge"
+  },
+  {
+    "address": "Rimska cesta 13, 1000 Ljubljana",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.047428,
+      "second": 14.499857599999999
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "Zbornica bar in žar"
+  },
+  {
+    "address": "Jadranska ulica 21, 1000 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.042055999999995,
+      "second": 14.4904028
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide (wc)",
+      "kosilo"
+    ],
+    "title": "Znanstvena kavarna Mafija"
+  },
+  {
+    "address": "Pristaniška ulica 2, 6000 Koper/Capodistria",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 45.546133,
+      "second": 13.7260016
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Žito Koper"
+  },
+  {
+    "address": "Trg Leona Štuklja 1, 2000 Maribor",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.559238699999995,
+      "second": 15.6484212
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Žito Leon Štukelj Maribor"
+  },
+  {
+    "address": "Trg OF 7, 1000 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.058147399999996,
+      "second": 14.5122258
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "dostop za invalide",
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "ŽITO Ljublana železniška (kolodvor)"
+  },
+  {
+    "address": "Slovenska cesta 58, 1000 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.0566385,
+      "second": 14.505799599999998
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "dostop za invalide",
+      "pizza",
+      "odprto ob vikendih"
+    ],
+    "title": "ŽITO Ljubljana Bavarski dvor"
+  },
+  {
+    "address": "Vodnikov trg 5, 1000 Ljubljana",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.0504873,
+      "second": 14.509129600000001
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "ŽITO Ljubljana Vodnik"
+  },
+  {
+    "address": "Trg revolucije 2, 2000 Maribor",
+    "full_price": "2,82",
+    "geolocation": {
+      "first": 46.5541609,
+      "second": 15.6464448
+    },
+    "subvention_price": "0,00",
+    "tags": [
+      "dostop za invalide",
+      "kosilo"
+    ],
+    "title": "Žito Maribor Trg revolucije"
+  }
+]

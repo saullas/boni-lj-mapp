@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:background="@drawable/marker_custom_info_window_background"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<com.example.boniljmap.utils.MyTextViewBold
+		android:id="@+id/tvTitle"
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="12dp"
+		android:gravity="start"
+		android:textSize="18sp"
+		android:textStyle="bold"
+		app:layout_constraintEnd_toEndOf="@id/tvDescription"
+		app:layout_constraintStart_toStartOf="@id/tvDescription"
+		app:layout_constraintTop_toTopOf="parent"
+		tools:text="Title very eryodz" />
+
+	<com.example.boniljmap.utils.MyTextViewRegular
+		android:id="@+id/tvDescription"
+		android:layout_width="250dp"
+		android:layout_height="match_parent"
+		android:layout_marginHorizontal="12dp"
+		android:layout_marginTop="8dp"
+		android:gravity="start"
+		android:text="Some random text Some random textSome random textSome random textSome random textSome random textSome random textSome random text"
+		android:textSize="16sp"
+		app:layout_constraintBottom_toTopOf="@id/llTags"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toBottomOf="@id/tvTitle" />
+
+	<LinearLayout
+		android:id="@+id/llTags"
+		android:layout_width="0dp"
+		android:layout_height="30dp"
+		android:layout_marginTop="8dp"
+		android:gravity="start|center"
+		android:layout_marginBottom="12dp"
+		android:orientation="horizontal"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="@id/tvDescription"
+		app:layout_constraintStart_toStartOf="@+id/tvDescription"
+		app:layout_constraintTop_toBottomOf="@id/tvDescription">
+
+		<ImageView
+			android:layout_width="@dimen/info_window_tag_icon_size"
+			android:layout_height="@dimen/info_window_tag_icon_size"
+			android:src="@drawable/ic_car"
+			app:tint="@color/blue_500" />
+
+		<ImageView
+			android:layout_width="@dimen/info_window_tag_icon_size"
+			android:layout_height="@dimen/info_window_tag_icon_size"
+			android:layout_marginHorizontal="4dp"
+			android:src="@drawable/ic_leaf"
+			app:tint="@color/green" />
+
+		<ImageView
+			android:layout_width="@dimen/info_window_tag_icon_size"
+			android:layout_height="@dimen/info_window_tag_icon_size"
+			android:layout_marginHorizontal="4dp"
+			android:src="@drawable/ic_fast_food"
+			app:tint="@color/yellow" />
+
+		<ImageView
+			android:layout_width="@dimen/info_window_tag_icon_size"
+			android:layout_height="@dimen/info_window_tag_icon_size"
+			android:layout_marginHorizontal="2dp"
+			android:src="@drawable/ic_pizza"
+			app:tint="@color/red" />
+
+	</LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

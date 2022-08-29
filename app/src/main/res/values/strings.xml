@@ -1,0 +1,19 @@
+<resources>
+	<string name="app_name">Boni Lj Mapp</string>
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="permission_description">Welcome to BoniLjMap. In order for our application to work properly, we need your permission to use your precise location, otherwise we will not be able to provide you with our service. If you agree and wish to continue, tap the button below.</string>
+	<string name="permission_required">Permission Required</string>
+	<string name="continue_text">Continue</string>
+	<string name="delivery">Delivery</string>
+	<string name="vegetarian">Vegetarian</string>
+	<string name="fast_food">Fast food</string>
+	<string name="pizza">Pizza</string>
+	<string name="open_on_weekends">Open on weekends</string>
+	<string name="new_restaurant">New restaurant</string>
+	<string name="cutlery">Cutlery</string>
+	<string name="vegan">vegan</string>
+	<string name="disabled">disabled</string>
+	<string name="takeaway">takeaway</string>
+	<string name="oznake">Oznake</string>
+	<string name="potrdi">Potrdi</string>
+</resources>

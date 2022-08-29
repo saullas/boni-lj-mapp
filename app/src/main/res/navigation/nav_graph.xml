@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/nav_graph"
+	app:startDestination="@id/permissionFragment">
+
+	<fragment
+		android:id="@+id/permissionFragment"
+		android:name="com.example.boniljmap.ui.PermissionFragment"
+		android:label="fragment_permission"
+		tools:layout="@layout/fragment_permission" >
+		<action
+			android:id="@+id/action_permissionFragment_to_mapsFragment"
+			app:destination="@id/mapsFragment"
+			app:popUpTo="@id/permissionFragment"
+			app:popUpToInclusive="true" />
+	</fragment>
+	<fragment
+		android:id="@+id/mapsFragment"
+		android:name="com.example.boniljmap.ui.MapsFragment"
+		android:label="fragment_maps"
+		tools:layout="@layout/fragment_maps" >
+		<action
+			android:id="@+id/action_mapsFragment_to_restaurantFilterBottomSheet"
+			app:destination="@id/restaurantFilterBottomSheet" />
+		<argument
+			android:name="backFromBottomSheet"
+			app:argType="boolean"
+			android:defaultValue="false" />
+		<argument
+			android:name="restaurantTag"
+			app:argType="string"
+			android:defaultValue='"Vse"' />
+		<argument
+			android:name="restaurantType"
+			app:argType="string"
+			android:defaultValue='"Vse"' />
+		<argument
+			android:name="restaurantTagId"
+			app:argType="integer"
+			android:defaultValue="0" />
+		<argument
+			android:name="restaurantTypeId"
+			app:argType="integer"
+			android:defaultValue="0" />
+	</fragment>
+	<dialog
+		android:id="@+id/restaurantFilterBottomSheet"
+		android:name="com.example.boniljmap.ui.RestaurantFilterBottomSheet"
+		android:label="fragment_restaurant_filter_bottom_sheet"
+		tools:layout="@layout/fragment_restaurant_filter_bottom_sheet" >
+		<action
+			android:id="@+id/action_restaurantFilterBottomSheet_to_mapsFragment"
+			app:destination="@id/mapsFragment" />
+		<argument
+			android:name="restaurantTag"
+			app:argType="string"
+			android:defaultValue='"vse"' />
+		<argument
+			android:name="restaurantType"
+			app:argType="string"
+			android:defaultValue='"vse"' />
+		<argument
+			android:name="restaurantTagId"
+			app:argType="integer"
+			android:defaultValue="0" />
+		<argument
+			android:name="restaurantTypeId"
+			app:argType="integer"
+			android:defaultValue="0" />
+	</dialog>
+</navigation>

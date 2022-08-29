@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="info_window_tag_icon_size">26dp</dimen>
+	<dimen name="status_icon_size">10dp</dimen>
+	<dimen name="rating_star_size">22dp</dimen>
+</resources>

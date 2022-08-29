@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:background="#bbFFFFFF"
+	tools:context=".ui.RestaurantFilterBottomSheet">
+
+	<com.example.boniljmap.utils.MyTextViewBold
+		android:id="@+id/tvTags"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginStart="24dp"
+		android:layout_marginTop="24dp"
+		android:text="@string/oznake"
+		android:textColor="@color/dark"
+		android:textSize="18sp"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+	<HorizontalScrollView
+		android:id="@+id/hvTags"
+		android:layout_width="match_parent"
+		android:layout_height="60dp"
+		android:layout_marginHorizontal="16dp"
+		android:layout_marginTop="12dp"
+		android:scrollbars="none"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toBottomOf="@id/tvTags">
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:orientation="horizontal">
+
+			<com.google.android.material.chip.ChipGroup
+				android:id="@+id/cgTags"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				app:selectionRequired="true"
+				app:singleLine="true"
+				app:singleSelection="true">
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cVse"
+					style="@style/CustomChipStyle"
+					android:layout_width="wrap_content"
+					android:textAppearance="@style/chipText"
+					android:layout_height="wrap_content"
+					android:tag="vse"
+					android:text="Vse" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cPizza"
+					android:textAppearance="@style/chipText"
+					style="@style/CustomChipStyle"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:tag="pizza"
+					android:text="Pizza" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cVegetarian"
+					android:textAppearance="@style/chipText"
+					style="@style/CustomChipStyle"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:tag="vegetarijansko"
+					android:text="Vegetarijansko" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cVegan"
+					style="@style/CustomChipStyle"
+					android:textAppearance="@style/chipText"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:tag="vegansko"
+					android:text="Vegansko" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cFastFood"
+					style="@style/CustomChipStyle"
+					android:textAppearance="@style/chipText"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:tag="hitra hrana"
+					android:text="Hitra hrana" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cNoPay"
+					style="@style/CustomChipStyle"
+					android:textAppearance="@style/chipText"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:tag="brez doplačila"
+					android:text="Brez doplačila" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cTakeaway"
+					style="@style/CustomChipStyle"
+					android:layout_width="wrap_content"
+					android:textAppearance="@style/chipText"
+					android:layout_height="wrap_content"
+					android:tag="za s seboj"
+					android:text="Za s seboj" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cDelivery"
+					android:textAppearance="@style/chipText"
+					style="@style/CustomChipStyle"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:tag="dostava"
+					android:text="Dostava" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cOpen"
+					style="@style/CustomChipStyle"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:textAppearance="@style/chipText"
+					android:tag="trenutno odprto"
+					android:text="Trenutno odprto" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cWeekendsOpen"
+					style="@style/CustomChipStyle"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:textAppearance="@style/chipText"
+					android:tag="odprto ob vikendih"
+					android:text="Odprto ob vikendih" />
+
+			</com.google.android.material.chip.ChipGroup>
+		</LinearLayout>
+	</HorizontalScrollView>
+
+	<com.example.boniljmap.utils.MyTextViewBold
+		android:id="@+id/tvDietType"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginStart="24dp"
+		android:text="Vrsta restavracije"
+		android:textColor="@color/dark"
+		android:textSize="18sp"
+		android:textStyle="bold"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toBottomOf="@id/hvTags" />
+
+	<HorizontalScrollView
+		android:id="@+id/hvRetaurantType"
+		android:layout_width="match_parent"
+		android:layout_height="60dp"
+		android:layout_marginHorizontal="16dp"
+		android:layout_marginTop="12dp"
+		android:scrollbars="none"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toBottomOf="@id/tvDietType">
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:orientation="horizontal">
+
+			<com.google.android.material.chip.ChipGroup
+				android:id="@+id/cgDietType"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				app:selectionRequired="true"
+				app:singleLine="true"
+				app:singleSelection="true">
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cAll"
+					style="@style/CustomChipStyle"
+					android:textAppearance="@style/chipText"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:tag="vse"
+					android:text="Vse" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cIndian"
+					style="@style/CustomChipStyle"
+					android:textAppearance="@style/chipText"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:tag="indijska"
+					android:text="Indijska" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cChinese"
+					android:textAppearance="@style/chipText"
+					style="@style/CustomChipStyle"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:tag="azijska"
+					android:text="Azijska" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cMexican"
+					style="@style/CustomChipStyle"
+					android:textAppearance="@style/chipText"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:tag="mehiška"
+					android:text="Mehiška" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/cItalian"
+					style="@style/CustomChipStyle"
+					android:textAppearance="@style/chipText"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:tag="italijanska"
+					android:text="Italijanska" />
+
+			</com.google.android.material.chip.ChipGroup>
+		</LinearLayout>
+	</HorizontalScrollView>
+
+	<com.example.boniljmap.utils.MyButton
+		android:id="@+id/btnApply"
+		android:layout_width="match_parent"
+		android:layout_height="50dp"
+		android:layout_marginHorizontal="16dp"
+		android:layout_marginTop="16dp"
+		android:layout_marginBottom="24dp"
+		android:backgroundTint="@color/blue_500"
+		android:background="@drawable/button_background"
+		android:clickable="true"
+		android:foreground="?attr/selectableItemBackground"
+		android:paddingVertical="10dp"
+		android:text="@string/potrdi"
+		android:textAllCaps="false"
+		android:textColor="@color/white"
+		android:textSize="18sp"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toBottomOf="@id/hvRetaurantType" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

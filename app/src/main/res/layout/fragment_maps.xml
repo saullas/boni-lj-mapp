@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<fragment
+		android:id="@+id/map"
+		android:name="com.google.android.gms.maps.SupportMapFragment"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		tools:context=".ui.MapsFragment" />
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:id="@+id/clUi"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent">
+
+		<androidx.appcompat.widget.SearchView
+			android:id="@+id/svSearch"
+			android:layout_width="match_parent"
+			android:layout_height="50dp"
+			android:layout_margin="16dp"
+			android:background="@drawable/marker_custom_info_window_background"
+			android:clickable="true"
+			android:elevation="20dp"
+			android:focusable="true"
+			android:focusableInTouchMode="true"
+			app:iconifiedByDefault="false"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			app:queryHint="Preišči restavracije..." />
+
+		<ListView
+			android:id="@+id/lvSearchResults"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginHorizontal="15dp"
+			android:layout_marginVertical="10dp"
+			android:background="@drawable/marker_custom_info_window_background"
+			android:elevation="20dp"
+			android:scrollbars="none"
+			android:visibility="gone"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintHeight_max="210dp"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@id/svSearch"
+			tools:visibility="visible" />
+
+		<androidx.constraintlayout.widget.ConstraintLayout
+			android:id="@+id/clInfoWindow"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginHorizontal="16dp"
+			android:layout_marginTop="12dp"
+			android:background="@drawable/marker_custom_info_window_background"
+			android:elevation="20dp"
+			android:foreground="?attr/selectableItemBackground"
+			android:visibility="gone"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@+id/lvSearchResults"
+			tools:visibility="visible">
+
+			<com.example.boniljmap.utils.MyTextViewBold
+				android:id="@+id/tvTitle"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="12dp"
+				android:layout_marginEnd="2dp"
+				android:gravity="start"
+				android:textColor="@color/darkGray"
+				android:textSize="18sp"
+				android:textStyle="bold"
+				app:layout_constraintEnd_toStartOf="@id/llRating"
+				app:layout_constraintStart_toStartOf="@id/tvAddress"
+				app:layout_constraintTop_toTopOf="parent"
+				tools:text="Namaste Indian Expres" />
+
+			<LinearLayout
+				android:id="@+id/llRating"
+				android:layout_width="wrap_content"
+				android:layout_height="0dp"
+				android:gravity="top"
+				android:orientation="horizontal"
+				app:layout_constraintBottom_toBottomOf="@id/tvTitle"
+				app:layout_constraintEnd_toEndOf="@id/tvAddress"
+				app:layout_constraintStart_toEndOf="@id/tvTitle"
+				app:layout_constraintTop_toTopOf="@id/tvTitle">
+
+				<com.example.boniljmap.utils.MyTextViewRegular
+					android:id="@+id/tvRating"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:paddingTop="5dp"
+					android:text="Ni podatka o oceni"
+					android:textColor="@color/textLightGray"
+					android:textSize="12sp"
+					android:visibility="gone" />
+
+				<ImageView
+					android:id="@+id/ivStar1"
+					android:layout_width="@dimen/rating_star_size"
+					android:layout_height="@dimen/rating_star_size"
+					android:src="@drawable/ic_star" />
+
+				<ImageView
+					android:id="@+id/ivStar2"
+					android:layout_width="@dimen/rating_star_size"
+					android:layout_height="@dimen/rating_star_size"
+					android:src="@drawable/ic_star" />
+
+				<ImageView
+					android:id="@+id/ivStar3"
+					android:layout_width="@dimen/rating_star_size"
+					android:layout_height="@dimen/rating_star_size"
+					android:src="@drawable/ic_star" />
+
+				<ImageView
+					android:id="@+id/ivStar4"
+					android:layout_width="@dimen/rating_star_size"
+					android:layout_height="@dimen/rating_star_size"
+					android:src="@drawable/ic_star_empty" />
+
+				<ImageView
+					android:id="@+id/ivStar5"
+					android:layout_width="@dimen/rating_star_size"
+					android:layout_height="@dimen/rating_star_size"
+					android:src="@drawable/ic_star_empty" />
+
+			</LinearLayout>
+
+			<com.example.boniljmap.utils.MyTextViewRegular
+				android:id="@+id/tvStatus"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="2dp"
+				android:textColor="@color/green"
+				android:textSize="13sp"
+				app:layout_constraintStart_toStartOf="@id/tvTitle"
+				app:layout_constraintTop_toBottomOf="@id/tvTitle"
+				tools:text="Odprto" />
+
+			<ImageView
+				android:id="@+id/ivStatus"
+				android:layout_width="@dimen/status_icon_size"
+				android:layout_height="@dimen/status_icon_size"
+				android:layout_marginStart="4dp"
+				android:src="@drawable/ic_closed"
+				android:visibility="gone"
+				app:layout_constraintBottom_toBottomOf="@id/tvStatus"
+				app:layout_constraintStart_toEndOf="@id/tvStatus"
+				app:layout_constraintTop_toTopOf="@id/tvStatus" />
+
+			<com.example.boniljmap.utils.MyTextViewRegular
+				android:id="@+id/tvLatitude"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:visibility="gone"
+				app:layout_constraintStart_toStartOf="@id/clInfoWindow"
+				app:layout_constraintTop_toTopOf="@id/clInfoWindow" />
+
+			<com.example.boniljmap.utils.MyTextViewRegular
+				android:id="@+id/tvLongitude"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:visibility="gone"
+				app:layout_constraintStart_toStartOf="@id/clInfoWindow"
+				app:layout_constraintTop_toTopOf="@id/clInfoWindow" />
+
+			<com.example.boniljmap.utils.MyTextViewRegular
+				android:id="@+id/tvAddress"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginHorizontal="12dp"
+				android:layout_marginTop="8dp"
+				android:gravity="start"
+				android:textColor="@color/textLightMediumGray"
+				android:textSize="16sp"
+				android:textStyle="italic"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toBottomOf="@id/tvStatus"
+				tools:text="Svetičeva ulica 19a" />
+
+			<LinearLayout
+				android:id="@+id/llPrice"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginHorizontal="12dp"
+				android:layout_marginTop="1dp"
+				android:orientation="horizontal"
+				app:layout_constraintBottom_toTopOf="@id/llTags"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toBottomOf="@id/tvAddress">
+
+				<com.example.boniljmap.utils.MyTextViewRegular
+					android:id="@+id/tvPrice1"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Doplačilo:"
+					android:textColor="@color/textLightMediumGray"
+					android:textSize="16sp" />
+
+				<com.example.boniljmap.utils.MyTextViewBold
+					android:id="@+id/tvPrice2"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:paddingStart="5dp"
+					android:textColor="@color/textDarkGray"
+					android:textSize="16sp"
+					tools:text="3,14 €" />
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:id="@+id/llTags"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="8dp"
+				android:layout_marginBottom="12dp"
+				android:gravity="start|center"
+				android:orientation="horizontal"
+				android:paddingBottom="5dp"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="@id/llPrice"
+				app:layout_constraintStart_toStartOf="@+id/llPrice"
+				app:layout_constraintTop_toBottomOf="@id/llPrice">
+
+				<ImageView
+					android:id="@+id/ivDelivery"
+					android:layout_width="@dimen/info_window_tag_icon_size"
+					android:layout_height="@dimen/info_window_tag_icon_size"
+					android:layout_marginEnd="6dp"
+					android:contentDescription="@string/delivery"
+					android:src="@drawable/ic_delivery_2" />
+
+				<ImageView
+					android:id="@+id/ivVegetarian"
+					android:layout_width="@dimen/info_window_tag_icon_size"
+					android:layout_height="@dimen/info_window_tag_icon_size"
+					android:layout_marginEnd="6dp"
+					android:contentDescription="@string/vegetarian"
+					android:src="@drawable/ic_vegetarian" />
+
+				<ImageView
+					android:id="@+id/ivVegan"
+					android:layout_width="@dimen/info_window_tag_icon_size"
+					android:layout_height="@dimen/info_window_tag_icon_size"
+					android:layout_marginEnd="6dp"
+					android:contentDescription="@string/vegan"
+					android:src="@drawable/ic_vegan" />
+
+				<ImageView
+					android:id="@+id/ivFastFood"
+					android:layout_width="@dimen/info_window_tag_icon_size"
+					android:layout_height="@dimen/info_window_tag_icon_size"
+					android:layout_marginEnd="6dp"
+					android:contentDescription="@string/fast_food"
+					android:src="@drawable/ic_burger_2" />
+
+				<ImageView
+					android:id="@+id/ivPizza"
+					android:layout_width="@dimen/info_window_tag_icon_size"
+					android:layout_height="@dimen/info_window_tag_icon_size"
+					android:layout_marginEnd="6dp"
+					android:contentDescription="@string/pizza"
+					android:src="@drawable/ic_pizza_2" />
+
+				<ImageView
+					android:id="@+id/ivWeekendOpen"
+					android:layout_width="@dimen/info_window_tag_icon_size"
+					android:layout_height="@dimen/info_window_tag_icon_size"
+					android:layout_marginEnd="6dp"
+					android:alpha="0.8"
+					android:contentDescription="@string/open_on_weekends"
+					android:src="@drawable/ic_open_weekend" />
+
+				<ImageView
+					android:id="@+id/ivTakeaway"
+					android:layout_width="@dimen/info_window_tag_icon_size"
+					android:layout_height="@dimen/info_window_tag_icon_size"
+					android:layout_marginEnd="6dp"
+					android:alpha="0.8"
+					android:contentDescription="@string/takeaway"
+					android:src="@drawable/ic_takeaway" />
+
+				<ImageView
+					android:id="@+id/ivDisabled"
+					android:layout_width="@dimen/info_window_tag_icon_size"
+					android:layout_height="@dimen/info_window_tag_icon_size"
+					android:layout_marginEnd="6dp"
+					android:contentDescription="@string/disabled"
+					android:src="@drawable/ic_disabled" />
+
+				<ImageView
+					android:id="@+id/ivNew"
+					android:layout_width="@dimen/info_window_tag_icon_size"
+					android:layout_height="@dimen/info_window_tag_icon_size"
+					android:layout_marginEnd="6dp"
+					android:contentDescription="@string/new_restaurant"
+					android:src="@drawable/ic_new"
+					app:tint="@color/teal_200" />
+
+			</LinearLayout>
+		</androidx.constraintlayout.widget.ConstraintLayout>
+
+		<com.google.android.material.floatingactionbutton.FloatingActionButton
+			android:id="@+id/fabMyLocation"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_margin="15dp"
+			android:background="#ddffffff"
+			android:backgroundTint="#ffffffff"
+			android:clickable="true"
+			android:contentDescription="@string/cutlery"
+			android:focusable="true"
+			android:src="@drawable/ic_location"
+			app:borderWidth="0dp"
+			app:layout_constraintBottom_toTopOf="@id/fabFilter"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:tint="@color/darkGray" />
+
+		<com.google.android.material.floatingactionbutton.FloatingActionButton
+			android:id="@+id/fabFilter"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_margin="15dp"
+			android:clickable="true"
+			android:contentDescription="@string/cutlery"
+			android:focusable="true"
+			android:src="@drawable/ic_cutlery"
+			app:backgroundTint="#ff009fcf"
+			app:borderWidth="0dp"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:tint="@color/white" />
+
+		<com.example.boniljmap.utils.MyTextViewRegular
+			android:id="@+id/tvHint"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:background="@drawable/hint_location_background"
+			android:padding="10dp"
+			android:text="Tap 'My Location' Button"
+			android:textColor="@color/white"
+			android:textSize="20sp"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintHorizontal_bias="0.5"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent" />
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

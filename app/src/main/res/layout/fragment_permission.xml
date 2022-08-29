@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:background="@color/white"
+	android:layout_height="match_parent"
+	tools:context=".ui.PermissionFragment">
+
+	<ImageView
+		android:id="@+id/ivLocationMap"
+		android:layout_width="0dp"
+		android:layout_height="0dp"
+		android:layout_margin="32dp"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintBottom_toTopOf="@id/tvPermissionRequired"
+		android:src="@drawable/welcome_location_image"
+		android:contentDescription="Image" />
+
+	<com.example.boniljmap.utils.MyTextViewBold
+		android:id="@+id/tvPermissionRequired"
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:textColor="@color/blue_500"
+		android:textSize="26sp"
+		android:layout_marginVertical="8dp"
+		android:textAlignment="center"
+		android:text="@string/permission_required"
+		android:layout_marginHorizontal="32dp"
+		app:layout_constraintBottom_toTopOf="@+id/tvPermissionDescription"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent" />
+
+	<com.example.boniljmap.utils.MyTextViewRegular
+		android:id="@+id/tvPermissionDescription"
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:text="@string/permission_description"
+		android:textAlignment="center"
+		android:textColor="@color/black"
+		android:layout_margin="32dp"
+		android:textSize="16sp"
+		android:justificationMode="inter_word"
+		app:layout_constraintBottom_toTopOf="@+id/btnContinue"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent" />
+
+	<com.example.boniljmap.utils.MyButton
+		android:id="@+id/btnContinue"
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:foreground="?attr/selectableItemBackground"
+		android:paddingVertical="15dp"
+		android:textAllCaps="false"
+		android:background="@drawable/button_background"
+		android:textColor="@color/white"
+		android:textSize="16sp"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		android:layout_margin="32dp"
+		android:text="@string/continue_text"
+		/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

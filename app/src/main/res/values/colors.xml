@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="blue_200">#5ed0ff</color>
+	<color name="blue_500">#009fcf</color>
+	<color name="blue_700">#00719e</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+
+	<color name="white">#FFFFFF</color>
+	<color name="lightGray">#F9F9F9</color>
+	<color name="mediumGray">#D1D1D1</color>
+	<color name="lightMediumGray">#80D1D1D1</color>
+	<color name="darkGray">#4B4B4B</color>
+	<color name="dark">#313C44</color>
+	<color name="darker">#151B20</color>
+	<color name="black">#000000</color>
+
+	<color name="textLightGray">#a1a1a1</color>
+	<color name="textLightMediumGray">#616161</color>
+	<color name="textDarkGray">#5B5B5B</color>
+
+	<color name="orange">#fb7813</color>
+	<color name="red">#ddFF4646</color>
+	<color name="yellow">#FFC114</color>
+	<color name="green">#dd00C980</color>
+	<color name="light_grey">#aaaaaa</color>
+
+	<color name="checkedChipBackgroundColor">#25009fcf</color>
+	<color name="chipBackgroundColor">@color/lightGray</color>
+	<color name="checkedChipTextColor">@color/blue_700</color>
+	<color name="chipTextColor">@color/darkGray</color>
+
+	<color name="actionBarBackgroundColor">@color/blue_500</color>
+</resources>

@@ -1,0 +1,165 @@
+[
+  {
+    "address": "Rožna Dolina, cesta I 26a, 1000 Ljubljana",
+    "full_price": "7,00 EUR",
+    "geolocation": {
+      "first": 46.0505518,
+      "second": 14.485383799999997
+    },
+    "subvention_price": "4,18 EUR",
+    "tags": [
+      "Vegetarijansko",
+      "Dostop za invalide",
+      "Kosilo",
+      "Odprt ob vikendih",
+      "Nov lokal"
+    ],
+    "title": "Restavracija Katrca"
+  },
+  {
+    "address": "Tržaška cesta 2, 1000 Ljubljana",
+    "full_price": "7,00 EUR",
+    "geolocation": {
+      "first": 46.0472469,
+      "second": 14.494050299999998
+    },
+    "subvention_price": "4,18 EUR",
+    "tags": [
+      "Vegetarijansko",
+      "Kosilo",
+      "Odprt ob vikendih",
+      "Nov lokal"
+    ],
+    "title": "ČIN ČIN food porn"
+  },
+  {
+    "address": "Cesta v mestni log 55, 1000 Ljubljana",
+    "full_price": "6,99 EUR",
+    "geolocation": {
+      "first": 46.036137,
+      "second": 14.4895265
+    },
+    "subvention_price": "4,17 EUR",
+    "tags": [
+      "Vegetarijansko",
+      "Dostava",
+      "Kosilo",
+      "Odprt ob vikendih",
+      "Nov lokal"
+    ],
+    "title": "Kitajska restavracija \"Leteča zvezda\" - dostava"
+  },
+  {
+    "address": "Cesta krških žrtev 59, 8270 Krško",
+    "full_price": "7,00 EUR",
+    "geolocation": {
+      "first": 45.961987699999995,
+      "second": 15.4860186
+    },
+    "subvention_price": "4,18 EUR",
+    "tags": [
+      "Vegetarijansko",
+      "Dostava",
+      "Pizza",
+      "Kosilo",
+      "Odprt ob vikendih"
+    ],
+    "title": "Stara krška pizzerija - dostava"
+  },
+  {
+    "address": "Pečarjeva ulica 1, 1410 Zagorje ob Savi",
+    "full_price": "6,69 EUR",
+    "geolocation": {
+      "first": 46.1319575,
+      "second": 14.9942446
+    },
+    "subvention_price": "3,87 EUR",
+    "tags": [
+      "Vegetarijansko",
+      "Dostava",
+      "Kosilo",
+      "Odprt ob vikendih"
+    ],
+    "title": "Pizzerija Ašič - dostava"
+  },
+  {
+    "address": "Obrtniška cesta 1, 1420 Trbovlje",
+    "full_price": "7,00 EUR",
+    "geolocation": {
+      "first": 46.1548989,
+      "second": 15.0508342
+    },
+    "subvention_price": "4,18 EUR",
+    "tags": [
+      "Vegetarijansko",
+      "Dostava",
+      "Kosilo",
+      "Odprt ob vikendih"
+    ],
+    "title": "Pizzerija Dimnik - dostava"
+  },
+  {
+    "address": "Tržaška cesta 18, 1000 Ljubljana",
+    "full_price": "5,63 EUR",
+    "geolocation": {
+      "first": 46.0456771,
+      "second": 14.4895749
+    },
+    "subvention_price": "2,81 EUR",
+    "tags": [
+      "Dostop za invalide",
+      "Kosilo"
+    ],
+    "title": "VOLTA"
+  },
+  {
+    "address": "Ulica Staneta Žagarja 2b, 4240 Radovljica",
+    "full_price": "6,20 EUR",
+    "geolocation": {
+      "first": 46.3483161,
+      "second": 14.1698851
+    },
+    "subvention_price": "3,38 EUR",
+    "tags": [
+      "Dostop za invalide",
+      "Kosilo",
+      "Odprt ob vikendih"
+    ],
+    "title": "LA CANTINA"
+  },
+  {
+    "address": "Kardeljeva ploščad 5, 1000 Ljubljana",
+    "full_price": "3,69 EUR",
+    "geolocation": {
+      "first": 46.0755832,
+      "second": 14.513194
+    },
+    "subvention_price": "0,87 EUR",
+    "tags": [
+      "vegetarijansko",
+      "dostop za invalide",
+      "kosilo",
+      "nov lokal"
+    ],
+    "title": "Okrepčevalnica Šumi"
+  },
+  {
+    "address": "Kranjska cesta 2, 4240 Radovljica",
+    "full_price": "7,00",
+    "geolocation": {
+      "first": 46.3427673,
+      "second": 14.1728519
+    },
+    "subvention_price": "4,18",
+    "tags": [
+      "kosilo",
+      "odprto ob vikendih"
+    ],
+    "title": "GRAJSKI LOUNGE & PUB",
+    "timetable": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

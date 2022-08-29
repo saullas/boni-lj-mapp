@@ -1,0 +1,42 @@
+[
+  {
+    "featureType": "poi",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "stylers": [
+      {
+        "visibility": "on"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station.airport",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station.bus",
+    "stylers": [
+      {
+        "lightness": 25
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station.rail",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  }
+]
