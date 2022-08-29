@@ -5,8 +5,8 @@ For local usage, you must use your own google api key and put it in local.proper
 MAPS_API_KEY=<your-api-key>
 
 <p float="left">
-  <img src="/Screenshot_1.png" width="25%" />
-  <img src="/Screenshot_2.png" width="25%" /> 
-  <img src="/Screenshot_1.png" width="25%" />
-  <img src="/Screenshot_2.png" width="25%" /> 
+  <img src="/Screenshot_1.png" width="20%" />
+  <img src="/Screenshot_2.png" width="20%" /> 
+  <img src="/Screenshot_1.png" width="20%" />
+  <img src="/Screenshot_2.png" width="20%" /> 
 </p>
